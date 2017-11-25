@@ -1,0 +1,118 @@
+key.attack
+key.use
+key.forward
+key.left
+key.back
+key.right
+key.jump
+key.sneak
+key.drop
+key.inventory
+key.chat
+key.playerlist
+key.pickItem
+key.command
+key.screenshot
+key.togglePerspective
+key.smoothCamera
+key.sprint
+key.streamStartStop
+key.streamPauseUnpause
+key.streamCommercial
+key.streamToggleMic
+key.fullscreen
+key.hotbar.1
+key.hotbar.2
+key.hotbar.3
+key.hotbar.4
+key.hotbar.5
+key.hotbar.6
+key.hotbar.7
+key.hotbar.8
+key.hotbar.9
+key.openCompendium
+key.archimedes.up
+key.archimedes.down
+key.archimedes.brake
+key.archimedes.align
+key.archimedes.decompile
+key.archimedes.shipinv
+Pneumatic Helmet Options
+Pneumatic Helmet Hack
+Tool Increase
+Tool Decrease
+keys.gekoslasers.laserSize
+keys.gekoslasers.laserDepth
+igwmod.keys.wiki
+key.ping
+simplyjetpacks.keybind.toggle.primary
+simplyjetpacks.keybind.toggle.secondary
+simplyjetpacks.keybind.mode.primary
+simplyjetpacks.keybind.mode.secondary
+simplyjetpacks.keybind.openPackGUI
+Baubles Inventory
+Change Wand Focus
+Activate Hover Harness
+Misc Wand Toggle
+keys.armourersworkshop.equipmentWardrobe
+keys.armourersworkshop.undo
+waila.keybind.wailaconfig
+waila.keybind.wailadisplay
+waila.keybind.liquid
+waila.keybind.recipe
+waila.keybind.usage
+Automagy.key.focusCrafting
+key.materialCosts
+key.clipboardPaste
+Glider Toggle
+Sound Locator
+Night Vision
+Goggles of Revealing
+Step Assist
+Speed
+Yeta Wrench Mode
+Toggle Electromagnet
+[GC] Galaxy Map
+[GC] Open Spaceship Inventory
+[GC] Toggle Sensor Goggles Mode
+Mekanism Item Mode Switch
+Mekanism Armor Mode Switch
+Mekanism Voice
+key.irc.screenshotShare
+key.irc.openScreenshots
+key.irc.toggleTarget
+key.irc.openMenu
+key.tarmor
+key.tgoggles
+key.tbelt
+key.tzoom
+invtweaks.key.sort
+key.fart.desc
+key.armor
+key.aspectMenu
+Change Arcane Lens
+Activate Morphic Fingers
+Toggle Spider Climb
+Toggle Chameleon Skin
+key.craftingGrid
+TG.keybind.openInv
+TG.keybind.activeaAbilities
+key.zyinhud.animalinfo
+key.zyinhud.coordinates
+key.zyinhud.distancemeasurer
+key.zyinhud.eatingaid
+key.zyinhud.enderpearlaid
+key.zyinhud.playerlocator
+key.zyinhud.potionaid
+key.zyinhud.quickdeposit
+key.zyinhud.safeoverlay
+key.zyinhud.weaponswapper
+key.zyinhud.zyinhudoptions
+key.zyinhud.itemselector
+key.cofh.empower
+key.cofh.multimode
+railcraft.keybind.loco.faster
+railcraft.keybind.loco.slower
+railcraft.keybind.loco.mode
+railcraft.keybind.loco.whistle
+key.control

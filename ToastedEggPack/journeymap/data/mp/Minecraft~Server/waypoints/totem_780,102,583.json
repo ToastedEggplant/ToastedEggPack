@@ -1,0 +1,17 @@
+{
+  "id": "totem_780,102,583",
+  "name": "totem",
+  "icon": "waypoint-normal.png",
+  "x": 780,
+  "y": 102,
+  "z": 583,
+  "r": 134,
+  "g": 255,
+  "b": 145,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
