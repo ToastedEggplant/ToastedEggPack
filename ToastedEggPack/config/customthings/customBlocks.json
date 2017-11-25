@@ -28,7 +28,7 @@
             "hardness": 0.3f,
             "toolType": "pickaxe",
             "oreDictNames":[ "oreCoal" ],
-            "drops":[ "minecraft:coal;0#3-10" ]
+            "drops":[ "minecraft:coal;0#3-4" ]
         },
         {
             "name": "ore.nether.lapis",
