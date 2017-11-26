@@ -52,9 +52,3 @@
 <StorageDrawers:halfDrawersSort2>.addTooltip(format.aqua("Ancient Trees, BOP, Botania, Forestry, IE, Thaumcraft, or Witchery."));
 <StorageDrawers:halfDrawersSort4>.addTooltip(format.aqua("Alternate versions can be crafted with any wood from vanilla,")); 
 <StorageDrawers:halfDrawersSort4>.addTooltip(format.aqua("Ancient Trees, BOP, Botania, Forestry, IE, Thaumcraft, or Witchery."));
-
-// Tropicraft
-<tropicraft:bambooChute>.addTooltip(format.aqua("Can be crafted from Plant Mega Pack bamboo."));
-<tropicraft:coconutChunk>.addTooltip(format.aqua("Can be crafted from Biomes O' Plenty palm tree leaves."));
-<tropicraft:tile.coconut>.addTooltip(format.aqua("Whole coconut, only found in the tropics."));
-<tropicraft:cocktail>.addTooltip(format.aqua("Can be made using Drink Mixer."));
