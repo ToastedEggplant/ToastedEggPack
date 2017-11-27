@@ -610,7 +610,51 @@ minecraft:spawn_egg:304, Spawn Phantom
 minecraft:spawn_egg:305, Spawn Wasp
 minecraft:spawn_egg:306, Spawn Bird
 minecraft:spawn_egg:307, Spawn Pixie
-minecraft:spawn_egg:308, Spawn Chicken Minion
+minecraft:spawn_egg:308, Spawn Failuresaurus
+minecraft:spawn_egg:309, Spawn Bones
+minecraft:spawn_egg:310, Spawn Anubite
+minecraft:spawn_egg:311, Spawn Tar Slime
+minecraft:spawn_egg:312, Spawn Anu
+minecraft:spawn_egg:313, Spawn Sentry Pigman
+minecraft:spawn_egg:314, Spawn Nautilus
+minecraft:spawn_egg:315, Spawn Coelacanth
+minecraft:spawn_egg:316, Spawn Alligator Gar
+minecraft:spawn_egg:317, Spawn Sturgeon
+minecraft:spawn_egg:318, Spawn Triceratops
+minecraft:spawn_egg:319, Spawn Velociraptor
+minecraft:spawn_egg:320, Spawn Tyrannosaurus
+minecraft:spawn_egg:321, Spawn Pteranodon
+minecraft:spawn_egg:322, Spawn Plesiosaurus
+minecraft:spawn_egg:323, Spawn Mosasaurus
+minecraft:spawn_egg:324, Spawn Stegosaurus
+minecraft:spawn_egg:325, Spawn Dilophosaurus
+minecraft:spawn_egg:326, Spawn Brachiosaurus
+minecraft:spawn_egg:327, Spawn Spinosaurus
+minecraft:spawn_egg:328, Spawn Compsognathus
+minecraft:spawn_egg:329, Spawn Ankylosaurus
+minecraft:spawn_egg:330, Spawn Pachycephalosaurus
+minecraft:spawn_egg:331, Spawn Deinonychus
+minecraft:spawn_egg:332, Spawn Gallimimus
+minecraft:spawn_egg:333, Spawn Liopleurodon
+minecraft:spawn_egg:334, Spawn Allosaurus
+minecraft:spawn_egg:335, Spawn Sarcosuchus
+minecraft:spawn_egg:336, Spawn Ceratosaurus
+minecraft:spawn_egg:337, Spawn Dryosaurus
+minecraft:spawn_egg:338, Spawn Therizinosaurus
+minecraft:spawn_egg:339, Spawn Ichthyosaurus
+minecraft:spawn_egg:340, Spawn Henodus
+minecraft:spawn_egg:341, Spawn Parasaurolophus
+minecraft:spawn_egg:342, Spawn Confuciusornis
+minecraft:spawn_egg:343, Spawn Dodo
+minecraft:spawn_egg:344, Spawn Gastornis
+minecraft:spawn_egg:345, Spawn Kelenken
+minecraft:spawn_egg:346, Spawn Phorusrhacos
+minecraft:spawn_egg:347, Spawn Titanis
+minecraft:spawn_egg:348, Spawn Mammoth
+minecraft:spawn_egg:349, Spawn Smilodon
+minecraft:spawn_egg:350, Spawn Quagga
+minecraft:spawn_egg:351, Spawn Elasmotherium
+minecraft:spawn_egg:352, Spawn Chicken Minion
 minecraft:spawn_egg:6396, Spawn Demon
 minecraft:spawn_egg:6397, Spawn Mandrake
 minecraft:spawn_egg:6398, Spawn Treefyd
@@ -678,136 +722,14 @@ ae2stuff:Encoder, Pattern Encoder
 ae2stuff:Grower, Crystal Growth Chamber
 ae2stuff:Inscriber, Advanced Inscriber
 ae2stuff:Wireless, Wireless Connector
-aether:aetherPortal, Aether Portal
-aether:holystone:1, Holystone
-aether:holystone:3, Mossy Holystone
+AgriCraft:crops, Crop Sticks
+AgriCraft:seedAnalyzer, Seed Analyzer
 minecraft:iron_horse_armor, Iron Horse Armor
 minecraft:golden_horse_armor, Gold Horse Armor
 minecraft:diamond_horse_armor, Diamond Horse Armor
 minecraft:lead, Lead
 minecraft:name_tag, Name Tag
 minecraft:command_block_minecart, Minecart with Command Block
-aether:aetherDirt, Aether Dirt
-aether:aetherGrass, Aether Grass
-aether:enchantedGrass, Enchanted Grass
-aether:enchantedAetherGrass, Enchanted Aether Grass
-aether:quicksoil, Quicksoil
-aether:icestone, Icestone
-aether:aercloud:0, Cold Aercloud
-aether:aercloud:1, Blue Aercloud
-aether:aercloud:2, Golden Aercloud
-aether:aercloud:3, Green Aercloud
-aether:aercloud:4, Storm Aercloud
-aether:purpleAercloud:0, Purple Aercloud
-aether:aerogel, Aerogel
-aether:altar, Altar of Light
-aether:incubator, Incubator
-aether:aetherLog:0, Skyroot Log
-aether:aetherLog:2, Golden Oak Log
-aether:skyrootPlank, Skyroot Plank
-aether:greenSkyrootLeaves, Green Skyroot Leaves
-aether:goldenOakLeaves, Golden Oak Leaves
-aether:greenSkyrootSapling, Green Skyroot Sapling
-aether:goldenOakSapling, Golden Oak Sapling
-aether:ambrosiumOre, Ambrosium Ore
-aether:ambrosiumTorch, Ambrosium Torch
-aether:zaniteOre, Zanite Ore
-aether:gravititeOre, Gravitite Ore
-aether:enchantedGravitite, Enchanted Gravitite
-aether:trap:0, tile.trap0.name
-aether:skyrootChestMimic, Skyroot Chest Mimic
-aether:carvedStone:0, Carved Stone
-aether:sentryStone:0, Sentry Stone
-aether:divineCarvedStone, Divine Carved Stone
-aether:divineSentryStone, Divine Sentry Stone
-aether:whiteGoldPillar:0, White Gold Pillar
-aether:whiteGoldPillar:2, White Gold Carved Pillar
-aether:labyrinthPillar:0, Labyrinth Pillar
-aether:labyrinthPillar:2, Carved Labyrinth Pillar
-aether:zaniteBlock, Zanite Block
-aether:quicksoilGlass, Quicksoil Glass
-aether:whiteRose, White Rose
-aether:purpleFlower, Purple Flower
-aether:present, Present
-aether:berryBush, Berry Bush
-aether:berryBushStem, Berry Bush Stem
-aether:holystoneStairs, Holystone Stairs
-aether:mossyHolystoneStairs, Mossy Holystone Stairs
-aether:icestoneStairs, Icestone Stairs
-aether:skyrootStairs, Skyroot Stairs
-aether:carvedStoneStairs, Carved Stone Stairs
-aether:holystoneWall, Holystone Wall
-aether:mossyHolystoneWall, Mossy Holystone Wall
-aether:icestoneWall, Icestone Wall
-aether:skyrootFence, Skyroot Fence
-aether:carvedStoneWall, Carved Stone Wall
-aether:holystoneBrick, Holystone Brick
-aether:skyrootLogWall, Skyroot Log Wall
-aether:tallAetherGrass, Tall Aether Grass
-aether:darkBlueSkyrootLeaves, Dark Blue Skyroot Leaves
-aether:blueSkyrootLeaves, Blue Skyroot Leaves
-aether:blueSkyrootSapling, Blue Skyroot Sapling
-aether:skyrootChest, Skyroot Chest
-aether:sliderLabyrinthDoor, Slider Labyrinth Door
-aether:purpleCrystalLeaves, Purple Crystal Leaves
-aether:purpleFruitLeaves, Purple Fruit Leaves
-aether:purpleCrystalSapling, Purple Crystal Sapling
-aether:orangeTree, Orange Tree
-aether:continuumOre, Continuum Ore
-aether:darkBlueSkyrootSapling, Dark Blue Skyroot Sapling
-aether:skyrootCraftingTable, Skyroot Crafting Table
-aether:bloodMossHolystone, Blood Moss Holystone
-aether:divineCarvedStoneWall, Divine Carved Stone Wall
-aether:divineCarvedStoneStairs, Divine Carved Stone Stairs
-aether:coldFire, tile.coldFire.name
-aether:sliderLabyrinthTotem, Slider Labyrinth Totem
-aether:skyrootDoor, tile.skyrootDoor.name
-aether:skyrootFenceGate, Skyroot Fence Gate
-aether:aerogelStairs, Aerogel Stairs
-aether:sentryStoneStairs, Sentry Stone Stairs
-aether:holystoneBrickStairs, Holystone Brick Stairs
-aether:divineSentryStoneStairs, Divine Sentry Stone Stairs
-aether:aerogelWall, Aerogel Wall
-aether:sentryStoneWall, Sentry Stone Wall
-aether:holystoneBrickWall, Holystone Brick Wall
-aether:divineSentryStoneWall, Divine Sentry Stone Wall
-aether:skyrootLadder, Skyroot Ladder
-aether:skyrootSign, tile.skyrootSign.name
-aether:skyrootSignWall, tile.skyrootSignWall.name
-aether:skyrootBed, tile.skyrootBed.name
-aether:protectorBlock, Protection Stone
-aether:skyrootTrapDoor, Skyroot Trap Door
-aether:skyrootBookshelf, Skyroot Bookshelf
-aether:quicksoilGlassPane, Quicksoil Glass Pane
-aether:holystoneFurnace, Holystone Furnace
-aether:holystoneFurnaceBurning, tile.holystoneFurnaceBurning.name
-aether:mobSpawner, Monster Spawner
-aether:presentNew, Present
-aether:holystoneHeadstone, Holystone Headstone
-aether:holystoneKeystone, Holystone Keystone
-aether:holystoneHighlight, Holystone Highlight
-aether:tile.skyrootSingleSlab:0, Skyroot Slab
-aether:tile.skyrootDoubleSlab:0, Skyroot Slab
-aether:tile.holystoneSingleSlab:0, Holystone Slab
-aether:tile.holystoneDoubleSlab:0, Holystone Slab
-aether:tile.mossyHolystoneSingleSlab:0, Mossy Holystone Slab
-aether:tile.mossyHolystoneDoubleSlab:0, Mossy Holystone Slab
-aether:tile.icestoneSingleSlab:0, Icestone Slab
-aether:tile.icestoneDoubleSlab:0, Icestone Slab
-aether:tile.holystoneBrickSingleSlab:0, Holystone Brick Slab
-aether:tile.holystoneBrickDoubleSlab:0, Holystone Brick Slab
-aether:tile.carvedStoneSingleSlab:0, Carved Stone Slab
-aether:tile.carvedStoneDoubleSlab:0, Carved Stone Slab
-aether:tile.sentryStoneSingleSlab:0, Sentry Stone Slab
-aether:tile.sentryStoneDoubleSlab:0, Sentry Stone Slab
-aether:tile.divineCarvedStoneSingleSlab:0, Divine Carved Stone Slab
-aether:tile.divineCarvedStoneDoubleSlab:0, Divine Carved Stone Slab
-aether:tile.divineSentryStoneSingleSlab:0, Divine Sentry Stone Slab
-aether:tile.divineSentryStoneDoubleSlab:0, Divine Sentry Stone Slab
-aether:tile.aerogelSingleSlab:0, Aerogel Slab
-aether:tile.aerogelDoubleSlab:0, Aerogel Slab
-AgriCraft:crops, Crop Sticks
-AgriCraft:seedAnalyzer, Seed Analyzer
 AgriCraft:waterPad, Water Pad
 AgriCraft:waterPadFull, Water Pad
 AgriCraft:waterTank:0, Wooden Water Tank
@@ -1125,6 +1047,10 @@ AgriCraft:waterTank:0, Wooden Water Tank
 AgriCraft:waterTank:0, Wooden Water Tank
 AgriCraft:waterTank:0, Wooden Water Tank
 AgriCraft:waterTank:0, Wooden Water Tank
+AgriCraft:waterTank:0, Wooden Water Tank
+AgriCraft:waterTank:0, Wooden Water Tank
+AgriCraft:waterTank:0, Wooden Water Tank
+AgriCraft:waterTank:0, Wooden Water Tank
 AgriCraft:waterChannel:0, Wooden Irrigation Channel
 AgriCraft:waterChannel:0, Wooden Irrigation Channel
 AgriCraft:waterChannel:0, Wooden Irrigation Channel
@@ -1440,6 +1366,14 @@ AgriCraft:waterChannel:0, Wooden Irrigation Channel
 AgriCraft:waterChannel:0, Wooden Irrigation Channel
 AgriCraft:waterChannel:0, Wooden Irrigation Channel
 AgriCraft:waterChannel:0, Wooden Irrigation Channel
+AgriCraft:waterChannel:0, Wooden Irrigation Channel
+AgriCraft:waterChannel:0, Wooden Irrigation Channel
+AgriCraft:waterChannel:0, Wooden Irrigation Channel
+AgriCraft:waterChannel:0, Wooden Irrigation Channel
+AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
+AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
+AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
+AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
 AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
 AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
 AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
@@ -1755,6 +1689,10 @@ AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
 AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
 AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
 AgriCraft:waterChannelFull:0, Wooden Irrigation Channel
+AgriCraft:channelValve:0, Wooden Channel Valve
+AgriCraft:channelValve:0, Wooden Channel Valve
+AgriCraft:channelValve:0, Wooden Channel Valve
+AgriCraft:channelValve:0, Wooden Channel Valve
 AgriCraft:channelValve:0, Wooden Channel Valve
 AgriCraft:channelValve:0, Wooden Channel Valve
 AgriCraft:channelValve:0, Wooden Channel Valve
@@ -2386,6 +2324,10 @@ AgriCraft:seedStorage:0, Seed Storage
 AgriCraft:seedStorage:0, Seed Storage
 AgriCraft:seedStorage:0, Seed Storage
 AgriCraft:seedStorage:0, Seed Storage
+AgriCraft:seedStorage:0, Seed Storage
+AgriCraft:seedStorage:0, Seed Storage
+AgriCraft:seedStorage:0, Seed Storage
+AgriCraft:seedStorage:0, Seed Storage
 AgriCraft:peripheral, Computer Controlled Seed Analyzer
 AgriCraft:fence:0, Fence
 AgriCraft:fence:0, Fence
@@ -2702,6 +2644,10 @@ AgriCraft:fence:0, Fence
 AgriCraft:fence:0, Fence
 AgriCraft:fence:0, Fence
 AgriCraft:fence:0, Fence
+AgriCraft:fence:0, Fence
+AgriCraft:fence:0, Fence
+AgriCraft:fence:0, Fence
+AgriCraft:fence:0, Fence
 AgriCraft:fenceGate:0, Fence Gate
 AgriCraft:fenceGate:0, Fence Gate
 AgriCraft:fenceGate:0, Fence Gate
@@ -3017,6 +2963,14 @@ AgriCraft:fenceGate:0, Fence Gate
 AgriCraft:fenceGate:0, Fence Gate
 AgriCraft:fenceGate:0, Fence Gate
 AgriCraft:fenceGate:0, Fence Gate
+AgriCraft:fenceGate:0, Fence Gate
+AgriCraft:fenceGate:0, Fence Gate
+AgriCraft:fenceGate:0, Fence Gate
+AgriCraft:fenceGate:0, Fence Gate
+AgriCraft:grate:0, Wooden Grate
+AgriCraft:grate:0, Wooden Grate
+AgriCraft:grate:0, Wooden Grate
+AgriCraft:grate:0, Wooden Grate
 AgriCraft:grate:0, Wooden Grate
 AgriCraft:grate:0, Wooden Grate
 AgriCraft:grate:0, Wooden Grate
@@ -6677,32 +6631,6 @@ ImmersiveEngineering:clothDevice, tile.ImmersiveEngineering.clothDevice.name
 arcane_engineering:destabilizer, Node Destabilizer
 arcanearteries:arcanearteries manaRune, Botanical Rune
 arcanearteries:arcanearteries thaumicRune, Thaumic Rune
-ArchimedesShipsPlus:marker, Ship's Helm
-ArchimedesShipsPlus:floater, Floater
-ArchimedesShipsPlus:balloon:0, Air Balloon
-ArchimedesShipsPlus:balloon:1, Orange Air Balloon
-ArchimedesShipsPlus:balloon:2, Magenta Air Balloon
-ArchimedesShipsPlus:balloon:3, Light Blue Air Balloon
-ArchimedesShipsPlus:balloon:4, Yellow Air Balloon
-ArchimedesShipsPlus:balloon:5, Lime Air Balloon
-ArchimedesShipsPlus:balloon:6, Pink Air Balloon
-ArchimedesShipsPlus:balloon:7, Gray Air Balloon
-ArchimedesShipsPlus:balloon:8, Silver Air Balloon
-ArchimedesShipsPlus:balloon:9, Cyan Air Balloon
-ArchimedesShipsPlus:balloon:10, Purple Air Balloon
-ArchimedesShipsPlus:balloon:11, Blue Air Balloon
-ArchimedesShipsPlus:balloon:12, Brown Air Balloon
-ArchimedesShipsPlus:balloon:13, Green Air Balloon
-ArchimedesShipsPlus:balloon:14, Red Air Balloon
-ArchimedesShipsPlus:balloon:15, Black Air Balloon
-ArchimedesShipsPlus:gauge:0, Measurement Gauges
-ArchimedesShipsPlus:gauge:1, Measurement Gauges
-ArchimedesShipsPlus:seat, Passenger Seat
-ArchimedesShipsPlus:buffer, Shore Buffer
-ArchimedesShipsPlus:stickyBuffer, Sticky Buffer
-ArchimedesShipsPlus:engine, Steam Engine
-ArchimedesShipsPlus:crate_wood, Wooden Crate
-ArchimedesShipsPlus:anchorPoint, Anchor Point
 armourersWorkshop:block.armourerBrain, Armourer
 armourersWorkshop:block.miniArmourer, Mini Armourer - (WIP)
 armourersWorkshop:block.armourLibrary:0, Equipment Library
@@ -8071,55 +7999,6 @@ CarpentersBlocks:blockCarpentersSlope:3, Carpenter's Prism Slope
 CarpentersBlocks:blockCarpentersSlope:4, Carpenter's Prism Wedge Slope
 CarpentersBlocks:blockCarpentersStairs, Carpenter's Stairs
 CarpentersBlocks:blockCarpentersTorch, Carpenter's Torch
-catwalks:sturdy_rail, Sturdy Rail
-catwalks:sturdy_rail_powered, Sturdy Powered Rail
-catwalks:sturdy_rail_detector, Sturdy Detector Rail
-catwalks:sturdy_rail_activator, Sturdy Activator Rail
-catwalks:support_column, Support Column
-catwalks:scaffold:0, Scaffold
-catwalks:scaffold:1, Builder's Scaffold
-catwalks:catwalk_lit_tape, Catwalk
-catwalks:catwalk_lit, Catwalk
-catwalks:catwalk_lit_nobottom_tape, Catwalk
-catwalks:catwalk_lit_nobottom, Catwalk
-catwalks:catwalk_unlit_tape, Catwalk
-catwalks:catwalk_unlit, Catwalk
-catwalks:catwalk_unlit_nobottom_tape, Catwalk
-catwalks:catwalk_unlit_nobottom, Catwalk
-catwalks:cagedLadder_north_lit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_north_lit_nobottom, Caged Ladder
-catwalks:cagedLadder_north_lit_tape, Caged Ladder
-catwalks:cagedLadder_north_lit, Caged Ladder
-catwalks:cagedLadder_north_unlit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_north_unlit_nobottom, Caged Ladder
-catwalks:cagedLadder_north_unlit_tape, Caged Ladder
-catwalks:cagedLadder_north_unlit, Caged Ladder
-catwalks:cagedLadder_south_lit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_south_lit_nobottom, Caged Ladder
-catwalks:cagedLadder_south_lit_tape, Caged Ladder
-catwalks:cagedLadder_south_lit, Caged Ladder
-catwalks:cagedLadder_south_unlit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_south_unlit_nobottom, Caged Ladder
-catwalks:cagedLadder_south_unlit_tape, Caged Ladder
-catwalks:cagedLadder_south_unlit, Caged Ladder
-catwalks:cagedLadder_west_lit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_west_lit_nobottom, Caged Ladder
-catwalks:cagedLadder_west_lit_tape, Caged Ladder
-catwalks:cagedLadder_west_lit, Caged Ladder
-catwalks:cagedLadder_west_unlit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_west_unlit_nobottom, Caged Ladder
-catwalks:cagedLadder_west_unlit_tape, Caged Ladder
-catwalks:cagedLadder_west_unlit, Caged Ladder
-catwalks:cagedLadder_east_lit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_east_lit_nobottom, Caged Ladder
-catwalks:cagedLadder_east_lit_tape, Caged Ladder
-catwalks:cagedLadder_east_lit, Caged Ladder
-catwalks:cagedLadder_east_unlit_nobottom_tape, Caged Ladder
-catwalks:cagedLadder_east_unlit_nobottom, Caged Ladder
-catwalks:cagedLadder_east_unlit_tape, Caged Ladder
-catwalks:cagedLadder_east_unlit, Caged Ladder
-catwalkmod:scaffold, Catwalk
-catwalkmod:cagedLadder, Caged Ladder
 OpenComputers:accessPoint:0, §cAccess Point§7
 OpenComputers:adapter:0, Adapter
 OpenComputers:assembler:0, Electronics Assembler
@@ -8748,7 +8627,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Doohicky)
+ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -9013,18 +8892,6 @@ ExtraUtilities:cobblestone_compressed:15, Double Compressed Sand
 ExtraUtilities:conveyor, Conveyor Belt
 ExtraUtilities:filing:0, Filing Cabinet
 ExtraUtilities:filing:1, Filing Cabinet (Advanced)
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 ExtraUtilities:greenscreen:0, Lapis Caelestis Albus (White)
 ExtraUtilities:greenscreen:1, Lapis Caelestis Aurantiacus (Orange)
 ExtraUtilities:greenscreen:2, Lapis Caelestis Purpura Amethystinus (Magenta)
@@ -9451,6 +9318,123 @@ ForbiddenMagic:TaintLeaves, Tainted Leaves
 ForbiddenMagic:TaintSapling, Tainted Sapling
 ForbiddenMagic:TaintBlock:0, Tainted Stone
 ForbiddenMagic:TaintBlock:1, Tainted Stone Bricks
+fossil:fossil, Fossil
+fossil:skullBlock, Skull
+fossil:skullLantern, Skull Lantern
+fossil:analyzer, Analyzer
+fossil:analyzerActive, Analyzer
+fossil:cultureVat, Culture Vat
+fossil:cultureVatActive, Culture Vat
+fossil:slimeTrail, Failuresaurus Trail
+fossil:fossilworkbench, Archeology Workbench
+fossil:workbenchActive, Archeology Workbench
+fossil:feederActive, Feeder
+fossil:feederIdle, Feeder
+fossil:denseSand, Dense Sand
+fossil:strongGlass, Reinforced Glass
+fossil:timeMachine, Time Machine
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
+fossil:fossil_drum, Drum
+fossil:permafrost, Permafrost
+fossil:icedStone, Iced Stone
+fossil:volcanicAsh, Volcanic Ash
+fossil:volcanicRock, Volcanic Rock
+fossil:tar, Tar
+fossil:palaeorapheLog, Palaeoraphe Log
+fossil:palaeorapheLeaves, Palaeoraphe Leaves
+fossil:palaeorapheSapling, Palaeoraphe Sapling
+fossil:palaeoraphePlanks, Palaeoraphe Planks
+fossil:palaeorapheSlab, Palaeoraphe Slab
+fossil:palaeorapheSlabDouble, Palaeoraphe Slab
+fossil:palaeorapheStairs, Palaeoraphe Stairs
+fossil:ancientWood, Ancient Wood
+fossil:ancientWoodPillar, Ancient Wood Pillar
+fossil:ancientWoodPlate, Ancient Wooden Plate
+fossil:ancientWoodStairs, Ancient Wooden Stairs
+fossil:ancientWoodSlab, Ancient Wood Slab
+fossil:ancientWoodSlabDouble, tile.ancientWoodSlabDouble.name
+fossil:volcanicBrick, Volcanic Brick
+fossil:amberOre, Amber Ore
+fossil:ancientStone, Ancient Stone
+fossil:ancientStonebrick, Ancient Stone Brick
+fossil:ancientGlass, Ancient Glass
+fossil:ancientStoneStairs, Ancient Stone Stairs
+fossil:ancientStoneSlab, Ancient Stone Slab
+fossil:ancientStoneSlabDouble, tile.ancientStoneSlabDouble.name
+fossil:obsidianSpikes, Obsidian Spikes
+fossil:figurine:0, Pristine Steve Figurine
+fossil:figurine:1, Pristine Skeleton Figurine
+fossil:figurine:2, Pristine Zombie Figurine
+fossil:figurine:3, Pristine Enderman Figurine
+fossil:figurine:4, Pristine Zombie Pigman Figurine
+fossil:figurine:5, Damaged Steve Figurine
+fossil:figurine:6, Damaged Skeleton Figurine
+fossil:figurine:7, Damaged Zombie Figurine
+fossil:figurine:8, Damaged Enderman Figurine
+fossil:figurine:9, Damaged Zombie Pigman Figurine
+fossil:figurine:10, Broken Steve Figurine
+fossil:figurine:11, Broken Skeleton Figurine
+fossil:figurine:12, Broken Zombie Figurine
+fossil:figurine:13, Broken Enderman Figurine
+fossil:figurine:14, Broken Zombie Pigman Figurine
+fossil:figurine:15, Mysterious Figurine
+fossil:anu_block, Anu Statue
+fossil:anu_portal, Portal to the Lair of Darkness
+fossil:home_portal, Overworld Portal
+fossil:AnubiteStatue, Anubite Statue
+fossil:ancientChest, Ancient Treasure Chest
+fossil:sifter, Sifter
+fossil:sifterActive, Sifter
+fossil:volcanicStairs, Volcanic Stairs
+fossil:volcanicSlab, Volcanic Slab
+fossil:volcanicSlabDouble, Volcanic Slab
+fossil:bubbleMachine, Bubble Blower
+fossil:vaseAmphora:0, Broken Amphora
+fossil:vaseAmphora:1, Restored Amphora
+fossil:vaseAmphora:2, Red Figure Amphora
+fossil:vaseAmphora:3, Black Figure Amphora
+fossil:vaseAmphora:4, Porcelain Amphora
+fossil:vaseKylix:0, Broken Kylix
+fossil:vaseKylix:1, Restored Kylix
+fossil:vaseKylix:2, Red Figure Kylix
+fossil:vaseKylix:3, Black Figure Kylix
+fossil:vaseKylix:4, Porcelain Kylix
+fossil:vaseVolute:0, Broken Volute
+fossil:vaseVolute:1, Restored Volute
+fossil:vaseVolute:2, Red Figure Volute
+fossil:vaseVolute:3, Black Figure Volute
+fossil:vaseVolute:4, Porcelain Volute
+fossil:sarcophagus, Mysterious Sarcophagus
+fossil:fernBlock, Ancient Fern
+fossil:plant_dillhoffia, Dillhoffia
+fossil:plant_sarracina, Sarracenia 
+fossil:plant_cephalotaxus, Cephalotaxus
+fossil:plant_licopodiophyta, Lycopodiophyta
+fossil:plant_paleopanax, Foozia
+fossil:plant_zamites, Zamites
+fossil:plant_bennettitales_small, Bennettitales
+fossil:plant_bennettitales_large, Tall Bennettitales
+fossil:plant_welwitschia, Welwitschia
+fossil:plant_horsetail_small, Horsetail
+fossil:plant_horsetail_large, Tall Horsetail
+fossil:plant_mutant, Failure Plant
+fossil:plant_tempskya, Tempskya
+fossil:plant_vaccinium, Vaccinium
+fossil:plant_osmunda, Osmunda
+fossil:plant_crataegus, Crataegus
+fossil:plant_florissantia, Florissantia
+fossil:plant_ephedra, Ephedra
 gadomancy:BlockStickyJar, Sticky Jar
 gadomancy:BlockArcaneDropper, Arcane Dropper
 gadomancy:BlockInfusionClaw, Infusion Claw
@@ -9962,7 +9946,7 @@ cfm:showertop, tile.showertop.name
 cfm:showerheadoff, tile.showerheadoff.name
 cfm:showerheadon, tile.showerheadon.name
 cfm:bin, tile.bin.name
-cfm:present, Present
+cfm:present, tile.present.name
 cfm:tree, tile.tree.name
 cfm:toaster, tile.toaster.name
 cfm:microwave, tile.microwave.name
@@ -10113,8 +10097,6 @@ openmodularturrets:teleporterTurret, Teleporter Turret
 openmodularturrets:laserTurret, Laser Turret
 openmodularturrets:railGunTurret, Rail Gun Turret
 openmodularturrets:leverBlock, Basic Turret Base Crank
-PassiveTorch:torch, Passive Torch
-gunpowder:gunpowder_block, Gunpowder
 plantmegapack:hangingFlowersMIX, Burgundy Flowers
 plantmegapack:hangingFlowersRED, Red Flowers
 plantmegapack:hangingFlowersCOR, Coral Flowers
@@ -11030,6 +11012,117 @@ TaintedMagic:WarpPlanks, Warpwood Planks
 TaintedMagic:WarpLeaves, Warped Leaves
 TaintedMagic:WarpSap, Warpwood Sapling
 TaintedMagic:WarpSapAwakened, Awakened Warpwood Sapling
+thaumicbases:quicksilverBlock, Block of Quicksilver
+thaumicbases:quicksilverBrick, Quicksilver Brick
+thaumicbases:crystalBlock:0, Air Crystal Block
+thaumicbases:crystalBlock:1, Fire Crystal Block
+thaumicbases:crystalBlock:2, Water Crystal Block
+thaumicbases:crystalBlock:3, Earth Crystal Block
+thaumicbases:crystalBlock:4, Order Crystal Block
+thaumicbases:crystalBlock:5, Entropy Crystal Block
+thaumicbases:crystalBlock:6, Mixed Crystal Block
+thaumicbases:crystalBlock:7, Tainted Crystal Block
+thaumicbases:blockSalisMundus, Salis Mundus Block
+thaumicbases:thauminiteBlock, Block of Thauminite
+thaumicbases:pyrofluid:0, Pyrofluid
+thaumicbases:pyrofluid:1, Pyrofluid
+thaumicbases:pyrofluid:2, Pyrofluid
+thaumicbases:pyrofluid:3, Pyrofluid
+thaumicbases:pyrofluid:4, Pyrofluid
+thaumicbases:pyrofluid:5, Pyrofluid
+thaumicbases:pyrofluid:6, Pyrofluid
+thaumicbases:pyrofluid:7, Pyrofluid
+thaumicbases:pyrofluid:15, Pyrofluid
+thaumicbases:eldritchArk, Gold Etched Obsidian
+thaumicbases:ironGreatwood, Iron Framed Greatwood
+thaumicbases:plax, Plax Crop
+thaumicbases:aureliaPetal, Aurelia Petal
+thaumicbases:aurelia, Aurelia
+thaumicbases:metalleat, Metalleat Crop
+thaumicbases:lucrite, Lucrite Crop
+thaumicbases:knose, Rosa Mysteria
+thaumicbases:sweed, Sweed Crop
+thaumicbases:lazullia, Lazullia Crop
+thaumicbases:rainbowCactus, Rainbow Cacti
+thaumicbases:redlonStem, Redlon Stem
+thaumicbases:ashroom, Primal Shroom
+thaumicbases:flaxium, Fluxium
+thaumicbases:glieonia, Glieonia Crop
+thaumicbases:briar, Briar
+thaumicbases:tobacco, Tobacco Crop
+thaumicbases:voidPlant, Void Crop
+thaumicbases:spike:0, Iron Spikes
+thaumicbases:spike:2, Thaumic Spikes
+thaumicbases:spike:4, Void Spikes
+thaumicbases:overchanter, Overchanting Table
+thaumicbases:goldenOakSapling:0, Golden Oak Sapling
+thaumicbases:goldenOakSapling:1, Peaceful Sapling
+thaumicbases:goldenOakSapling:2, Nether Sapling
+thaumicbases:goldenOakSapling:3, Ender Sapling
+thaumicbases:genLeaves:0, Golden Oak Leaves
+thaumicbases:genLeaves:1, Peaceful Leaves
+thaumicbases:genLeaves:2, Nether Leaves
+thaumicbases:genLeaves:3, Ender Leaves
+thaumicbases:cryingObsidian, Crying Obsidian
+thaumicbases:oldCobble, Ancient Cobblestone
+thaumicbases:oldCobbleMossy, Ancient Mossy Cobblestone
+thaumicbases:oldGravel, Ancient Gravel
+thaumicbases:advAlchFurnace, Advanced Alchemical Furnace
+thaumicbases:entityDeconstructor, Entity Deconstructor
+thaumicbases:oldBrick, Ancient Bricks
+thaumicbases:oldLapis, Ancient Lapis Lazuli Block
+thaumicbases:oldIron, Ancient Iron Block
+thaumicbases:oldGold, Ancient Gold Block
+thaumicbases:oldDiamond, Ancient Diamond Block
+thaumicbases:genLogs:0, Peaceful Wood
+thaumicbases:genLogs:1, Nether Wood
+thaumicbases:genLogs:2, Ender Wood
+thaumicbases:nodeManipulator, Node Manipulator
+thaumicbases:genericSlab:0, Gold Etched Obsidian Slab
+thaumicbases:genericSlab:1, Ancient Brick Slab
+thaumicbases:genericSlab:2, Ancient Cobblestone Slab
+thaumicbases:genericSlab:3, Ancient Mossy Cobblestone Slab
+thaumicbases:genericSlab:4, Ancient Diamond Slab
+thaumicbases:genericSlab:5, Ancient Gold Slab
+thaumicbases:genericSlab:6, Ancient Iron Slab
+thaumicbases:genericSlab:7, Ancient Lapis Lazuli Slab
+thaumicbases:genericSlab_full:0, Gold Etched Obsidian Slab
+thaumicbases:genericSlab_full:1, Ancient Brick Slab
+thaumicbases:genericSlab_full:2, Ancient Cobblestone Slab
+thaumicbases:genericSlab_full:3, Ancient Mossy Cobblestone Slab
+thaumicbases:genericSlab_full:4, Ancient Diamond Slab
+thaumicbases:genericSlab_full:5, Ancient Gold Slab
+thaumicbases:genericSlab_full:6, Ancient Iron Slab
+thaumicbases:genericSlab_full:7, Ancient Lapis Lazuli Slab
+thaumicbases:crystalSlab:0, Air Crystal Slab
+thaumicbases:crystalSlab:1, Fire Crystal Slab
+thaumicbases:crystalSlab:2, Water Crystal Slab
+thaumicbases:crystalSlab:3, Earth Crystal Slab
+thaumicbases:crystalSlab:4, Order Crystal Slab
+thaumicbases:crystalSlab:5, Entropy Crystal Slab
+thaumicbases:crystalSlab:6, Mixed Crystal Slab
+thaumicbases:crystalSlab:7, Tainted Crystal Slab
+thaumicbases:crystalSlab_full:0, Air Crystal Slab
+thaumicbases:crystalSlab_full:1, Fire Crystal Slab
+thaumicbases:crystalSlab_full:2, Water Crystal Slab
+thaumicbases:crystalSlab_full:3, Earth Crystal Slab
+thaumicbases:crystalSlab_full:4, Order Crystal Slab
+thaumicbases:crystalSlab_full:5, Entropy Crystal Slab
+thaumicbases:crystalSlab_full:6, Mixed Crystal Slab
+thaumicbases:crystalSlab_full:7, Tainted Crystal Slab
+thaumicbases:relocator:0, Thaumic Relocator
+thaumicbases:relocator:6, Thaumic Relocator
+thaumicbases:voidBlock, Void metal Block
+thaumicbases:thaumicAnvil:0, Thaumium Anvil
+thaumicbases:thaumicAnvil:1, Slightly Damaged Thaumium Anvil
+thaumicbases:thaumicAnvil:2, Very Damaged Thaumium Anvil
+thaumicbases:voidAnvil:0, Void metal Anvil
+thaumicbases:voidAnvil:1, Slightly Damaged Void metal Anvil
+thaumicbases:voidAnvil:2, Very Damaged Void metal Anvil
+thaumicbases:enderPlanks, Ender Wood Planks
+thaumicbases:nodeLinker, Node Linking Device
+thaumicbases:campfire, Thaumaturge's Campfire
+thaumicbases:brazier, Thaumaturge's Brazier
 thaumicenergistics:thaumicenergistics.block.essentia.provider, Essentia Provider
 thaumicenergistics:thaumicenergistics.block.infusion.provider, Infusion Provider
 thaumicenergistics:thaumicenergistics.block.gear.box, Iron Gear Box
@@ -11039,6 +11132,33 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
+ThaumicExploration:autoSorter, tile.thaumicexploration:autoSorter.name
+ThaumicExploration:trashJar, Oblivion Jar
+ThaumicExploration:boundChest, tile.boundChest.name
+ThaumicExploration:floatCandle:0, White Floating Candle
+ThaumicExploration:floatCandle:1, Orange Floating Candle
+ThaumicExploration:floatCandle:2, Magenta Floating Candle
+ThaumicExploration:floatCandle:3, Light Blue Floating Candle
+ThaumicExploration:floatCandle:4, Yellow Floating Candle
+ThaumicExploration:floatCandle:5, Lime Floating Candle
+ThaumicExploration:floatCandle:6, Pink Floating Candle
+ThaumicExploration:floatCandle:7, Gray Floating Candle
+ThaumicExploration:floatCandle:8, Light Gray Floating Candle
+ThaumicExploration:floatCandle:9, Cyan Floating Candle
+ThaumicExploration:floatCandle:10, Purple Floating Candle
+ThaumicExploration:floatCandle:11, Blue Floating Candle
+ThaumicExploration:floatCandle:12, Brown Floating Candle
+ThaumicExploration:floatCandle:13, Green Floating Candle
+ThaumicExploration:floatCandle:14, Red Floating Candle
+ThaumicExploration:floatCandle:15, Black Floating Candle
+ThaumicExploration:meltyIce, Ice
+ThaumicExploration:boundJar, Bound Jar
+ThaumicExploration:thinkTankJar, Think Tank
+ThaumicExploration:everfullUrn, Everfull Urn
+ThaumicExploration:everburnUrn, Everburn Urn
+ThaumicExploration:soulBrazier, Soul Brazier
+ThaumicExploration:crucibleSouls, Crucible of Souls
+ThaumicExploration:replicator, Thaumic Replicator
 ThaumicHorizons:synthNode, Ethereal Shard
 ThaumicHorizons:alchemite, Alchemite
 ThaumicHorizons:visDynamo, Vis Dynamo
@@ -11152,6 +11272,18 @@ TMechworks:MeshFilter:1, Wide Mesh Filter
 TMechworks:MeshFilter:2, Slat Mesh Filter
 TMechworks:MeshFilter:3, Mesh Filter
 TMechworks:MeshFilter:4, Fine Mesh Filter
+totemic:cedarLog, Red Cedar Log
+totemic:totemBase, Totem Base
+totemic:totemPole, Totem Pole
+totemic:totemSapling, Red Cedar Sapling
+totemic:totemLeaves, Red Cedar Leaves
+totemic:totemTorch, Totem Torch
+totemic:totemDrum, Totemist Drum
+totemic:windChime, Wind Chime
+totemic:redCedarPlank, Red Cedar Plank
+totemic:redCedarStripped, Red Cedar Stripped Log
+totemic:totemicTipi, Tipi
+totemic:dummyTotemicTipi, Tipi
 TravellersGear:armorstand, Armor Stand
 witchery:belladonna, Belladonna
 witchery:mandrake, Mandrake
@@ -11915,6 +12047,81 @@ Ztones:tile.ztylBlock:12, Ztyl ⑫
 Ztones:tile.ztylBlock:13, Ztyl ⑬
 Ztones:tile.ztylBlock:14, Ztyl ⑭
 Ztones:tile.ztylBlock:15, Ztyl ⑮
+arsmagica2:essenceRefiner, Essence Refiner
+arsmagica2:mageTorch, Mage Light
+arsmagica2:essenceConduit, Etherium Conduit
+arsmagica2:obelisk, Obelisk
+arsmagica2:calefactor, Calefactor
+arsmagica2:keystoneReceptacle, Keystone Receptacle
+arsmagica2:astralBarrier, Astral Barrier
+arsmagica2:blackAurem, Black Aurem
+arsmagica2:celestialPrism, Celestial Prism
+arsmagica2:seerStone, Seer Stone
+arsmagica2:vinteumOre:0, Vinteum Ore
+arsmagica2:vinteumOre:1, Chimerite Ore
+arsmagica2:vinteumOre:2, Blue Topaz Ore
+arsmagica2:vinteumOre:3, Moonstone Ore
+arsmagica2:vinteumOre:4, Sunstone Ore
+arsmagica2:vinteumOre:5, Moonstone Block
+arsmagica2:vinteumOre:6, Vinteum Block
+arsmagica2:vinteumOre:7, Blue Topaz Block
+arsmagica2:vinteumOre:8, Sunstone Block
+arsmagica2:vinteumOre:9, Chimerite Block
+arsmagica2:blueOrchid, Cerublossom
+arsmagica2:desertNova, Desert Nova
+arsmagica2:keystoneChest, Keystone Chest
+arsmagica2:blockLectern, Lectern
+arsmagica2:manaBattery, Mana Battery
+arsmagica2:blockArcaneReconstructor, Arcane Reconstructor
+arsmagica2:magicWall, Magic Wall
+arsmagica2:occulus, Occulus
+arsmagica2:CraftingAltar, Crafting Altar
+arsmagica2:SpellRune, Spell Rune
+arsmagica2:VinteumTorch, Vinteum Torch
+arsmagica2:ParticleEmitter, Particle Emitter
+arsmagica2:InscriptionTable, Inscription Table
+arsmagica2:invisibleUtility, tile.arsmagica2:invisibleUtility.name
+arsmagica2:Aum, Aum
+arsmagica2:TarmaRoot, Tarma Root
+arsmagica2:WitchwoodLog, Witchwood Log
+arsmagica2:WitchwoodLeaves, Witchwood Leaves
+arsmagica2:Summoner, Summoner
+arsmagica2:liquidEssence, Liquid Etherium
+arsmagica2:redstoneInlay, Redstone Inlay
+arsmagica2:ironInlay, Iron Inlay
+arsmagica2:goldInlay, Gold Inlay
+arsmagica2:planksWitchwood, Witchwood Planks
+arsmagica2:stairsWitchwood, Witchwood Stairs
+arsmagica2:saplingWitchwood, Witchwood Sapling
+arsmagica2:magiciansWorkbench, Magician's Workbench
+arsmagica2:everstone, Everstone
+arsmagica2:keystoneDoor, Keystone Door
+arsmagica2:keystoneTrapDoor, Keystone Trapdoor
+arsmagica2:slipstreamGenerator, Slipstream Generator
+arsmagica2:elementalAttuner, Flicker Habitat
+arsmagica2:wizardChalk, Wizard's Chalk Rune
+arsmagica2:inertSpawner, Inert Spawner
+arsmagica2:candle, Placed Warding Candle
+arsmagica2:brokenLinkBlock, Broken Power Link
+arsmagica2:armorInfuser, Armor Imbuement Table
+arsmagica2:flickerLure, Flicker Lure
+arsmagica2:arcaneDeconstructor, Arcane Deconstructor
+arsmagica2:wakebloom, Wakebloom
+arsmagica2:otherworldAura, Otherworld Aura
+arsmagica2:spellSealedDoor, Spell-Sealed Door
+arsmagica2:witchwoodSingleSlab:0, Witchwood Slab
+arsmagica2:witchwoodDoubleSlab:0, Witchwood Slab
+arsmagica2:illusionBlock:0, Illusion Block
+arsmagica2:illusionBlock:1, Ethereal Illusion Block
+arsmagica2:crystalMarker:0, Import Crystal
+arsmagica2:crystalMarker:1, Export Crystal
+arsmagica2:crystalMarker:2, Mimic Export Crystal
+arsmagica2:crystalMarker:3, Set Export Crystal
+arsmagica2:crystalMarker:4, Regulate Export Crystal
+arsmagica2:crystalMarker:5, Regulate Bidirectional Crystal
+arsmagica2:crystalMarker:6, Set Import Crystal
+arsmagica2:crystalMarker:7, Final Export Crystal
+arsmagica2:crystalMarker:8, Spell Export Crystal
 Pistronics2:Glue, Glue
 Pistronics2:Super Glue, Super Glue
 Pistronics2:Camou Paste, Camou Paste
@@ -11928,6 +12135,171 @@ Pistronics2:Petrify Arrow, Petrify Arrow
 Pistronics2:Petrify Extract, Petrify Extract
 Pistronics2:Book of Gears, Book of Gears
 Pistronics2:Chisel, Chisel
+arsmagica2:spellBase, item.arsmagica2:spell_base.name
+arsmagica2:itemOre:0, Vinteum Dust
+arsmagica2:itemOre:1, Arcane Compound
+arsmagica2:itemOre:2, Arcane Ash
+arsmagica2:itemOre:3, Purified Vinteum Dust
+arsmagica2:itemOre:4, Chimerite
+arsmagica2:itemOre:5, Blue Topaz
+arsmagica2:itemOre:6, Sunstone
+arsmagica2:itemOre:7, Moonstone
+arsmagica2:itemOre:8, Pig Fat
+arsmagica2:essence:0, Arcane Essence
+arsmagica2:essence:1, Earth Essence
+arsmagica2:essence:2, Air Essence
+arsmagica2:essence:3, Fire Essence
+arsmagica2:essence:4, Water Essence
+arsmagica2:essence:5, Nature Essence
+arsmagica2:essence:6, Ice Essence
+arsmagica2:essence:7, Lightning Essence
+arsmagica2:essence:8, Life Essence
+arsmagica2:essence:9, Ender Essence
+arsmagica2:essence:10, Pure Essence
+arsmagica2:essence:11, High Essence Core
+arsmagica2:essence:12, Base Essence Core
+arsmagica2:essenceBag, Essence Bag
+arsmagica2:spellParchment, Spell Parchment
+arsmagica2:spellBook, item.arsmagica2:spell_book.name
+arsmagica2:rune:0, Black Rune
+arsmagica2:rune:1, Blank Rune
+arsmagica2:rune:2, Blue Rune
+arsmagica2:rune:3, Brown Rune
+arsmagica2:rune:4, Cyan Rune
+arsmagica2:rune:5, Gray Rune
+arsmagica2:rune:6, Green Rune
+arsmagica2:rune:7, Light Blue Rune
+arsmagica2:rune:8, Light Gray Rune
+arsmagica2:rune:9, Lime Rune
+arsmagica2:rune:10, Magenta Rune
+arsmagica2:rune:11, Orange Rune
+arsmagica2:rune:12, Pink Rune
+arsmagica2:rune:13, Purple Rune
+arsmagica2:rune:14, Red Rune
+arsmagica2:rune:15, White Rune
+arsmagica2:rune:16, Yellow Rune
+arsmagica2:rune:17, Infinity Orb
+arsmagica2:rune:18, Infinity Orb
+arsmagica2:rune:19, Infinity Orb
+arsmagica2:rune:20, Rune of Debugging
+arsmagica2:lesserFocus, Lesser Focus
+arsmagica2:standardFocus, Standard Focus
+arsmagica2:greaterFocus, Greater Focus
+arsmagica2:manaFocus, Mana Focus
+arsmagica2:chargeFocus, Charge Focus
+arsmagica2:playerFocus, Player Focus
+arsmagica2:mobFocus, Monster Focus
+arsmagica2:itemFocus, Item Focus
+arsmagica2:creatureFocus, Creature Focus
+arsmagica2:blueChalk, Wizard's Chalk
+arsmagica2:manaCake, Mana Cake
+arsmagica2:keystone, Keystone
+arsmagica2:bookAffinity:0, Affinity Tome: NONE
+arsmagica2:bookAffinity:1, Affinity Tome: ARCANE
+arsmagica2:bookAffinity:2, Affinity Tome: WATER
+arsmagica2:bookAffinity:3, Affinity Tome: FIRE
+arsmagica2:bookAffinity:4, Affinity Tome: EARTH
+arsmagica2:bookAffinity:5, Affinity Tome: AIR
+arsmagica2:bookAffinity:6, Affinity Tome: LIGHTNING
+arsmagica2:bookAffinity:7, Affinity Tome: ICE
+arsmagica2:bookAffinity:8, Affinity Tome: NATURE
+arsmagica2:bookAffinity:9, Affinity Tome: LIFE
+arsmagica2:bookAffinity:10, Affinity Tome: ENDER
+arsmagica2:lesserManaPotion, Lesser Mana Potion
+arsmagica2:standardManaPotion, Standard Mana Potion
+arsmagica2:greaterManaPotion, Greater Mana Potion
+arsmagica2:epicManaPotion, Epic Mana Potion
+arsmagica2:legendaryManaPotion, Legendary Mana Potion
+arsmagica2:manaPotionBundle:3, Lesser Mana Potion Bundle
+arsmagica2:manaPotionBundle:259, Standard Mana Potion Bundle
+arsmagica2:manaPotionBundle:515, Greater Mana Potion Bundle
+arsmagica2:manaPotionBundle:771, Epic Mana Potion Bundle
+arsmagica2:manaPotionBundle:1027, Legendary Mana Potion Bundle
+arsmagica2:mageHood, Mage Hood
+arsmagica2:mageArmor, Mage Robes
+arsmagica2:mageLeggings, Mage Leggings
+arsmagica2:mageBoots, Mage Boots
+arsmagica2:battlemageHood, Battlemage Circlet
+arsmagica2:battlemageArmor, Battlemage Armor
+arsmagica2:battlemageLeggings, Battlemage Leggings
+arsmagica2:battlemageBoots, Battlemage Boots
+arsmagica2:BoundHoeNor, Bound Hoe
+arsmagica2:BoundShovelNor, Bound Shovel
+arsmagica2:BoundAxeNor, Bound Axe
+arsmagica2:BoundPickaxeNor, Bound Pickaxe
+arsmagica2:BoundSwordNor, Bound Sword
+arsmagica2:AMSpawnEgg:0, Spawn Mana Creeper
+arsmagica2:AMSpawnEgg:1, Spawn Dryad
+arsmagica2:AMSpawnEgg:2, Spawn Hecate
+arsmagica2:AMSpawnEgg:3, Spawn Mage Villager
+arsmagica2:AMSpawnEgg:4, Spawn Mana Elemental
+arsmagica2:AMSpawnEgg:5, Spawn Water Elemental
+arsmagica2:AMSpawnEgg:6, Spawn Light Mage
+arsmagica2:AMSpawnEgg:7, Spawn Dark Mage
+arsmagica2:AMSpawnEgg:8, Spawn Hell Cow
+arsmagica2:AMSpawnEgg:9, Spawn Flicker
+arsmagica2:AMSpawnEgg:10, Spawn Earth Elemental
+arsmagica2:AMSpawnEgg:11, Spawn Fire Elemental
+arsmagica2:AMSpawnEgg:12, Spawn Darkling
+arsmagica2:AMSpawnEgg:13, Spawn Nature Guardian
+arsmagica2:AMSpawnEgg:14, Spawn Arcane Guardian
+arsmagica2:AMSpawnEgg:15, Spawn Earth Guardian
+arsmagica2:AMSpawnEgg:16, Spawn Water Guardian
+arsmagica2:AMSpawnEgg:17, Spawn Winter Guardian
+arsmagica2:AMSpawnEgg:18, Spawn Air Guardian
+arsmagica2:AMSpawnEgg:19, Spawn Fire Guardian
+arsmagica2:AMSpawnEgg:20, Spawn Life Guardian
+arsmagica2:AMSpawnEgg:21, Spawn Lightning Guardian
+arsmagica2:AMSpawnEgg:22, Spawn Ender Guardian
+arsmagica2:deficitCrystal, Deficit Crystal
+arsmagica2:crystal_wrench, Crystal Wrench
+arsmagica2:ArcaneCompendium, Arcane Compendium
+arsmagica2:SpellComponent, item.null.name
+arsmagica2:Crystal Phylactery, Crystal Phylactery
+arsmagica2:liquidEssenceBucket, Bucket of Liquid Etherium
+arsmagica2:natureScythe, §6Nature's Scythe§f
+arsmagica2:magitechStaff, Magitech's Staff
+arsmagica2:liquidEssenceBottle, Infused Etherium Potion
+arsmagica2:bindingCatalyst:0, Binding Catalyst: Pickaxe
+arsmagica2:bindingCatalyst:1, Binding Catalyst: Axe
+arsmagica2:bindingCatalyst:3, Binding Catalyst: Shovel
+arsmagica2:bindingCatalyst:2, Binding Catalyst: Sword
+arsmagica2:bindingCatalyst:4, Binding Catalyst: Hoe
+arsmagica2:evilBook, Evil-Looking Book
+arsmagica2:woodenLeg, Wooden Leg
+arsmagica2:cowHorn, Hell Cow's Horn
+arsmagica2:magicBroom, Magic Broom
+arsmagica2:arcane_spellbook, item.arsmagica2:arcane_spellbook.name
+arsmagica2:winter_arm, §6Winter's Grasp§f
+arsmagica2:air_sled, §6Air Sled§f
+arsmagica2:earth_armor, §6Earth Armor§f
+arsmagica2:water_orbs, §6Water Orbs§f
+arsmagica2:fire_ears, §6Antenna of the Fire Guardian§f
+arsmagica2:workbenchUpgrade, Magician's Workbench Upgrade: Crafting
+arsmagica2:keystoneDoorPlacer:0, Keystone Door
+arsmagica2:keystoneDoorPlacer:1, Spell-Sealed Door
+arsmagica2:enderBoots, §6Ender Boots§f
+arsmagica2:wardingCandle:0, Warding Candle (Unattuned)
+arsmagica2:magitechGoggles, Magitech Goggles
+arsmagica2:flickerJar:0, Empty Flicker Jar
+arsmagica2:flickerJar:1, Arcane Flicker Jar
+arsmagica2:flickerJar:2, Water Flicker Jar
+arsmagica2:flickerJar:3, Fire Flicker Jar
+arsmagica2:flickerJar:4, Earth Flicker Jar
+arsmagica2:flickerJar:5, Air Flicker Jar
+arsmagica2:flickerJar:6, Lightning Flicker Jar
+arsmagica2:flickerJar:7, Ice Flicker Jar
+arsmagica2:flickerJar:8, Nature Flicker Jar
+arsmagica2:flickerJar:9, Life Flicker Jar
+arsmagica2:flickerJar:10, Ender Flicker Jar
+arsmagica2:runeBag, Rune Bag
+arsmagica2:lightningCharm, §6Lightning Charm§f
+arsmagica2:lifeWard, §6Life Ward§f
+arsmagica2:playerjournal, Journal
+arsmagica2:manaMartini, Mana Martini
+arsmagica2:inscriptionUpgrade:0, Inscription Table Tier 1 Upgrade
+arsmagica2:inscriptionUpgrade:1, Inscription Table Tier 2 Upgrade
+arsmagica2:inscriptionUpgrade:2, Inscription Table Tier 3 Upgrade
 appliedenergistics2:item.ToolCertusQuartzAxe, Certus Quartz Axe
 appliedenergistics2:item.ToolCertusQuartzHoe, Certus Quartz Hoe
 appliedenergistics2:item.ToolCertusQuartzSpade, Certus Quartz Shovel
@@ -12096,37 +12468,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mossy Holystone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Aether Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Quicksoil
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Icestone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Golden Oak Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Plank
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ambrosium Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Zanite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Gravitite Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Enchanted Gravitite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Carved Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sentry Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Divine Carved Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Divine Sentry Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - White Gold Pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - White Gold Carved Pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Labyrinth Pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Carved Labyrinth Pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Zanite Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Present
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Continuum Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Crafting Table
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Moss Holystone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Protection Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Skyroot Bookshelf
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Headstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Keystone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Holystone Highlight
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Augmented Capacity
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Dislocation
@@ -13764,25 +14105,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Blast Brick
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Botanical Rune
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Thaumic Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Floater
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Blue Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Gray Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Air Balloon
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Shore Buffer
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sticky Buffer
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass (White)
@@ -14508,6 +14830,20 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Stone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Stone Bricks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fossil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dense Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iced Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Volcanic Ash
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Volcanic Rock
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palaeoraphe Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Palaeoraphe Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Wood Pillar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Volcanic Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Amber Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Stone Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Bubble Blower
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Asteroid Rock
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Asteroid Rock
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Asteroid Rock
@@ -14704,6 +15040,48 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Warpwood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dense Warpwood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Shadowmetal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Warpwood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Quicksilver
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Air Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fire Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Water Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Earth Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Order Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Entropy Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mixed Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Crystal Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Salis Mundus Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Thauminite
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gold Etched Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Iron Framed Greatwood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Crying Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Bricks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Lapis Lazuli Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Iron Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Gold Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Diamond Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Peaceful Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gold Etched Obsidian Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Brick Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Cobblestone Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Mossy Cobblestone Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Diamond Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Gold Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Iron Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ancient Lapis Lazuli Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Air Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Fire Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Water Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Earth Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Order Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Entropy Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Mixed Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Crystal Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Alchemite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Chocolate
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Planar Boundary
@@ -14714,6 +15092,8 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Bone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Lump of Flesh
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Primordial Fossil
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Planar Gateway
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Cedar Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Cedar Plank
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Rowan Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Alder Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Wood
@@ -15260,6 +15640,19 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztyl ⑫
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztyl ⑬
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztyl ⑭
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztyl ⑮
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Vinteum Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Chimerite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Topaz Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moonstone Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sunstone Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Moonstone Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Vinteum Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Topaz Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sunstone Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Chimerite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Witchwood Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Witchwood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Witchwood Slab
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -15450,159 +15843,6 @@ appliedenergistics2:item.ItemMultiPart:380, ME Terminal
 appliedenergistics2:item.ItemMultiPart:80, ME Toggle Bus
 ae2stuff:WirelessKit, Wireless Setup Kit
 ae2stuff:Visualiser, Network Visualisation Tool
-aether:moaEgg:0, Blue Moa Egg
-aether:moaEgg:0, White Moa Egg
-aether:moaEgg:0, Black Moa Egg
-aether:goldenAmber, Golden Amber
-aether:aechorPetal, Aechor Petal
-aether:skyrootStick, Skyroot Stick
-aether:dart:0, Golden Dart
-aether:dart:1, Poison Dart
-aether:dart:2, Enchanted Dart
-aether:dartShooter:0, Golden Dart Shooter
-aether:dartShooter:1, Poison Dart Shooter
-aether:dartShooter:2, Enchanted Dart Shooter
-aether:dartShooter:3, Phoenix Dart Shooter
-aether:ambrosiumShard, Ambrosium Shard
-aether:zaniteGemstone, Zanite Gemstone
-aether:skyrootBucket:0, Skyroot Bucket
-aether:skyrootPickaxe, Skyroot Pickaxe
-aether:holystonePickaxe, Holystone Pickaxe
-aether:zanitePickaxe, Zanite Pickaxe
-aether:gravititePickaxe, Gravitite Pickaxe
-aether:skyrootShovel, Skyroot Shovel
-aether:holystoneShovel, Holystone Shovel
-aether:zaniteShovel, Zanite Shovel
-aether:gravititeShovel, Gravitite Shovel
-aether:skyrootAxe, Skyroot Axe
-aether:holystoneAxe, Holystone Axe
-aether:zaniteAxe, Zanite Axe
-aether:gravititeAxe, Gravitite Axe
-aether:skyrootSword, Skyroot Sword
-aether:holystoneSword, Holystone Sword
-aether:zaniteSword, Zanite Sword
-aether:gravititeSword, Gravitite Sword
-aether:ironBubble, Iron Bubble
-aether:pigSlayer, Pig Slayer
-aether:vampireBlade, Vampire Blade
-aether:flamingSword, Flaming Sword
-aether:holySword, Holy Sword
-aether:lightningSword, Lightning Sword
-aether:lightningKnife, Lightning Knife
-aether:gummySwet:0, Blue Gummy Swet
-aether:gummySwet:1, Golden Gummy Swet
-aether:gummySwet:2, Dark Gummy Swet
-aether:hammerOfNotch, Hammer of Notch
-aether:cloudParachute, item.cloudParachute.name
-aether:shardOfLife, Shard of Life
-aether:orbOfArkenzus:0, Orb of Arkenzus
-aether:valkyrieLance, Valkyrie Lance
-aether:ironRing, Iron Ring
-aether:goldenRing, Golden Ring
-aether:zaniteRing, Zanite Ring
-aether:ironPendant, Iron Pendant
-aether:goldenPendant, Golden Pendant
-aether:zanitePendant, Zanite Pendant
-aether:pinkBabySwet:0, Baby Pink Swet
-aether:leatherGloves, Leather Gloves
-aether:ironGloves, Iron Gloves
-aether:goldenGolves, Golden Gloves
-aether:diamondGloves, Diamond Gloves
-aether:zaniteGloves, Zanite Gloves
-aether:zaniteHelmet, Zanite Helmet
-aether:zaniteChestplate, Zanite Chestplate
-aether:zaniteLeggings, Zanite Leggings
-aether:zaniteBoots, Zanite Boots
-aether:gravititeGloves, Gravitite Gloves
-aether:gravititeHelmet, Gravitite Helmet
-aether:gravititeChestplate, Gravitite Chestplate
-aether:gravititeLeggings, Gravitite Leggings
-aether:gravititeBoots, Gravitite Boots
-aether:phoenixGloves, Phoenix Gloves
-aether:phoenixHelmet, Phoenix Helmet
-aether:phoenixChestplate, Phoenix Chestplate
-aether:phoenixLeggings, Phoenix Leggings
-aether:phoenixBoots, Phoenix Boots
-aether:obsidianGloves, Obsidian Gloves
-aether:obsidianChestplate, Obsidian Chestplate
-aether:obsidianHelmet, Obsidian Helmet
-aether:obsidianLeggings, Obsidian Leggings
-aether:obsidianBoots, Obsidian Boots
-aether:neptuneGloves, Neptune Gloves
-aether:neptuneHelmet, Neptune Helmet
-aether:neptuneChestplate, Neptune Chestplate
-aether:neptuneLeggings, Neptune Leggings
-aether:neptuneBoots, Neptune Boots
-aether:regenerationStone, Regeneration Stone
-aether:etherealStone:0, Ethereal Stone
-aether:fleetingStone:0, Fleeting Stone
-aether:fangrinCapsule:0, Fangrin Capsule
-aether:deathSeal:0, Death Seal
-aether:kraisithCapsule:0, Kraisith Capsule
-aether:valkyriePickaxe, Valkyrie Pickaxe
-aether:valkyrieAxe, Valkyrie Axe
-aether:valkyrieShovel, Valkyrie Shovel
-aether:healingStone:0, Healing Stone
-aether:iceRing, Ice Ring
-aether:icePendant, Ice Pendant
-aether:blueBerry, Blue Berry
-aether:gingerBreadMan, Gingerbread Man
-aether:candyCane, Candy Cane
-aether:candyCaneSword, Candy Cane Sword
-aether:whiteApple, White Apple
-aether:swetJelly:0, Blue Swet Jelly
-aether:swetJelly:1, Golden Swet Jelly
-aether:swetJelly:2, Dark Swet Jelly
-aether:sentryBoots, Sentry Boots
-aether:valkyrieMusicDisc, Valkyrie Music Disc
-aether:valkyrieHelmet, Valkyrie Helmet
-aether:valkyrieChestplate, Valkyrie Chestplate
-aether:valkyrieLeggings, Valkyrie Leggings
-aether:valkyrieBoots, Valkyrie Boots
-aether:valkyrieGloves, Valkyrie Gloves
-aether:soaringStone:0, Soaring Stone
-aether:mouseEarCap, Mouse Ear Cap
-aether:enchantedBerry, Enchanted Berry
-aether:rainbowStrawberry, Rainbow Strawberry
-aether:continuumOrb, Continuum Orb
-aether:orange, Orange
-aether:labyrinthMusicDisc, Labyrinth Music Disc
-aether:moaMusicDisc, Moa Music Disc
-aether:aerwhaleMusicDisc, Aerwhale Music Disc
-aether:rystalBottle, Crystal EXP Bottle
-aether:piggieBank, Piggie Bank
-aether:wyndberry, Wyndberry
-aether:skyrootWaterBucket:0, Skyroot Water Bucket
-aether:skyrootPoisonBucket:0, Skyroot Poison Bucket
-aether:skyrootMilkBucket:0, Skyroot Milk Bucket
-aether:skyrootDoorItem, Skyroot Door
-aether:skyrootSignItem, Skyroot Sign
-aether:skyrootBedItem, Skyroot Bed
-aether:candyCorn, Candy Corn
-aether:stomperPop, Stomper Pop
-aether:blueberryLollipop, Blueberry Lollipop
-aether:orangeLollipop, Orange Lollipop
-aether:jellyPumpkin, Jelly Pumpkin
-aether:icestonePoprocks, Icestone Poprocks
-aether:cocoatrice, Cocoatrice
-aether:wrappedChocolates, Wrapped Chocolates
-aether:recording892, Recording #892
-aether:shoyrootBowl, Skyroot Bowl
-aether:cornstarchBowl, Cornstarch Bowl
-aether:chainGloves, Chain Gloves
-aether:goldenFeather, item.goldenFeather.name
-aether:bronzeKey, item.bronzeKey.name
-aether:guardianKey, item.guardianKey.name
-aether:frostpineTotem:0, Frostpine Totem
-aether:continuumBomb, Continuum Bomb
-aether:daggerfrostLocket, Daggerfrost Locket
-aether:wrappingPaper, Wrapping Paper
-aether:luckyBell, Lucky Bell
-aether:silentFlightDisc, Frosty Music Disc
-aether:frostboundStone:0, Frostbound Stone
-aether:candyRing, Candy Ring
-aether:boneRing, Bone Ring
-aether:skyrootRing, Skyroot Ring
 AgriCraft:seedPotato, Potato Seeds
 AgriCraft:seedCarrot, Carrot Seeds
 AgriCraft:seedSugarcane, Sugarcane Seeds
@@ -18288,7 +18528,7 @@ Botania:manaRingGreater, item.manaRingGreater.name
 Botania:auraRingGreater, item.auraRingGreater.name
 Botania:travelBelt, item.travelBelt.name
 Botania:knockbackBelt, item.knockbackBelt.name
-Botania:icePendant, Ice Pendant
+Botania:icePendant, item.icePendant.name
 Botania:lavaPendant, item.lavaPendant.name
 Botania:goldenLaurel, item.goldenLaurel.name
 Botania:magnetRing, item.magnetRing.name
@@ -18567,13 +18807,6 @@ CarpentersBlocks:itemCarpentersChisel, Carpenter's Chisel
 CarpentersBlocks:itemCarpentersTile, Carpenter's Tile
 CarpentersBlocks:itemCarpentersDoor, Carpenter's Door
 CarpentersBlocks:itemCarpentersBed, Carpenter's Bed
-catwalks:blowtorch, Blowtorch
-catwalks:ropeLight, Rope Light
-catwalks:cautionTape, Caution Tape
-catwalks:steelgrate, Steel Grate
-catwalkmod:ropeLight, item.null.name
-catwalkmod:blowtorch, item.null.name
-catwalkmod:steelGrate, item.null.name
 OpenComputers:item:27, Arithmetic Logic Unit (ALU)
 OpenComputers:item:101, Accelerated Processing Unit (APU) (Tier 1)
 OpenComputers:item:102, Accelerated Processing Unit (APU) (Tier 2)
@@ -22183,6 +22416,512 @@ ForbiddenMagic:RingNutrition, Ring of Nutrition
 ForbiddenMagic:TaintFruit, Tainted Fruit
 ForbiddenMagic:TaintCoal, Hexcoal
 ForbiddenMagic:BlinkFocus, Wand Focus: Blink
+fossil:bioFossil, Bio-Fossil
+fossil:tar_fossil, Tar Fossil
+fossil:relicScrap, Relic Scrap
+fossil:stoneTablet, Stone Tablet
+fossil:brokenAncientSword, Broken Ancient Sword
+fossil:ancientSword, Ancient Sword
+fossil:brokenAncientHelmet, Broken Ancient Helmet
+fossil:ancientHelmet, Ancient Helmet
+fossil:potteryShard, Pottery Shard
+fossil:skullStick, Skull Stick
+fossil:icedMeat, Frozen Meat
+fossil:plantFossil, Plant Fossil
+fossil:fossilSeed:0, Fossilized Dillhoffia Seeds
+fossil:fossilSeed:1, Fossilized Sarracenia Seeds
+fossil:fossilSeed:2, Fossilized Cephalotaxus Seeds
+fossil:fossilSeed:3, Fossilized Lycopodiophyta Spores
+fossil:fossilSeed:4, Fossilized Foozia Spores
+fossil:fossilSeed:5, Fossilized Zamites Seeds
+fossil:fossilSeed:6, Fossilized Bennettitales Seeds
+fossil:fossilSeed:7, Fossilized Welwitschia Seeds
+fossil:fossilSeed:8, Fossilized Horsetail Spores
+fossil:fossilSeed:9, Fossilized Tempskya Spores
+fossil:fossilSeed:10, Fossilized Vaccinium Seeds
+fossil:fossilSeed:11, Fossilized Osmunda Spores
+fossil:fossilSeed:12, Fossilized Crataegus Seeds
+fossil:fossilSeed:13, Fossilized Florissantia Seeds
+fossil:fossilSeed:14, Fossilized Ephedra Seeds
+fossil:fossilSeed_fern, Fossilized Fern Spores
+fossil:fossilSapling_palae, Petrified Palaeoraphe Sapling
+fossil:seed:0, Dillhoffia Seeds
+fossil:seed:1, Sarracenia Seeds
+fossil:seed:2, Cephalotaxus Seeds
+fossil:seed:3, Lycopodiophyta Spores
+fossil:seed:4, Foozia Spores
+fossil:seed:5, Zamites Seeds
+fossil:seed:6, Bennettitales Seeds
+fossil:seed:7, Welwitschia Seeds
+fossil:seed:8, Horsetail Spores
+fossil:seed:9, Tempskya Spores
+fossil:seed:10, Vaccinium Seeds
+fossil:seed:11, Osmunda Spores
+fossil:seed:12, Crataegus Seeds
+fossil:seed:13, Florissantia Seeds
+fossil:seed:14, Ephedra Seeds
+fossil:fernSeeds, Ancient Fern Spores
+fossil:dinoPedia, DinoPedia
+fossil:whip, Whip
+fossil:failuresaurusFlesh, Failuresaurus Flesh
+fossil:tar_bucket, Tar Bucket
+fossil:tardrop, Tar Drop
+fossil:emptyShell, Empty Shell
+fossil:sJL, Sio-Chiu-Le
+fossil:magicConch, Magic Conch
+fossil:rawChickenSoup, Raw Chicken Soup
+fossil:cookedChickenSoup, Cooked Chicken Soup
+fossil:essenceofChicken, Essence of Chicken
+fossil:cooked_egg, Cooked Egg
+fossil:amber, Amber
+fossil:DominicanAmber, Dominican Amber
+fossil:scarabGem, Scarab Gem
+fossil:scarabAxe, Scarab Axe
+fossil:scarabPickAxe, Scarab PickAxe
+fossil:scarabSword, Scarab Sword
+fossil:scarabHoe, Scarab Hoe
+fossil:scarabShovel, Scarab Shovel
+fossil:AquaticScarabGem, Aquatic Scarab Gem
+fossil:skullHelmet, Skull Helmet
+fossil:ribCage, Rib Cage
+fossil:shinGuards, Shin Guards
+fossil:feet, Feet
+fossil:ancientKey, Ancient Key
+fossil:ancientClock, Ancient Clock
+fossil:toothDagger, Tooth Dagger
+fossil:woodJavelin, Wooden Javelin
+fossil:stoneJavelin, Stone Javelin
+fossil:ironJavelin, Iron Javelin
+fossil:goldJavelin, Gold Javelin
+fossil:diamondJavelin, Diamond Javelin
+fossil:ancientJavelin, Ancient Javelin
+fossil:toyBall:0, Black Ball
+fossil:toyBall:1, Red Ball
+fossil:toyBall:2, Green Ball
+fossil:toyBall:3, Brown Ball
+fossil:toyBall:4, Blue Ball
+fossil:toyBall:5, Purple Ball
+fossil:toyBall:6, Cyan Ball
+fossil:toyBall:7, Light Gray Ball
+fossil:toyBall:8, Gray Ball
+fossil:toyBall:9, Pink Ball
+fossil:toyBall:10, Lime Ball
+fossil:toyBall:11, Yellow Ball
+fossil:toyBall:12, Light Blue Ball
+fossil:toyBall:13, Magenta Ball
+fossil:toyBall:14, Orange Ball
+fossil:toyBall:15, White Ball
+fossil:toyTetheredLog, Tethered Log
+fossil:toyScratchingPost, Scratching Post
+fossil:record_bones, Fossil Record
+fossil:record_bones_disc, Fossil Record
+fossil:record_scarab, Fossil Record
+fossil:record_discovery, Fossil Record
+fossil:skull:0, Triceratops Skull
+fossil:skull:1, Velociraptor Skull
+fossil:skull:2, Tyrannosaurus Skull
+fossil:skull:3, Pteranodon Skull
+fossil:skull:4, Plesiosaurus Skull
+fossil:skull:5, Mosasaurus Skull
+fossil:skull:6, Stegosaurus Skull
+fossil:skull:7, Dilophosaurus Skull
+fossil:skull:8, Brachiosaurus Skull
+fossil:skull:9, Spinosaurus Skull
+fossil:skull:10, Compsognathus Skull
+fossil:skull:11, Ankylosaurus Skull
+fossil:skull:12, Pachycephalosaurus Skull
+fossil:skull:13, Deinonychus Skull
+fossil:skull:14, Gallimimus Skull
+fossil:skull:15, Liopleurodon Skull
+fossil:skull:16, Allosaurus Skull
+fossil:skull:17, Sarcosuchus Skull
+fossil:skull:18, Ceratosaurus Skull
+fossil:skull:19, Dryosaurus Skull
+fossil:skull:20, Therizinosaurus Skull
+fossil:skull:21, Parasaurolophus Skull
+fossil:skull:22, Confuciusornis Skull
+fossil:skull:23, Ichthyosaurus Skull
+fossil:skull:24, Henodus Skull
+fossil:skull:25, Dodo Skull
+fossil:skull:26, Gastornis Skull
+fossil:skull:27, Kelenken Skull
+fossil:skull:28, Phorusrhacos Skull
+fossil:skull:29, Titanis Skull
+fossil:skull:30, Mammoth Skull
+fossil:skull:31, Smilodon Skull
+fossil:skull:32, Quagga Skull
+fossil:skull:33, Elasmotherium Skull
+fossil:dinoRibCage:0, Triceratops Rib Cage
+fossil:dinoRibCage:1, Velociraptor Rib Cage
+fossil:dinoRibCage:2, Tyrannosaurus Rib Cage
+fossil:dinoRibCage:3, Pteranodon Rib Cage
+fossil:dinoRibCage:4, Plesiosaurus Rib Cage
+fossil:dinoRibCage:5, Mosasaurus Rib Cage
+fossil:dinoRibCage:6, Stegosaurus Rib Cage
+fossil:dinoRibCage:7, Dilophosaurus Rib Cage
+fossil:dinoRibCage:8, Brachiosaurus Rib Cage
+fossil:dinoRibCage:9, Spinosaurus Rib Cage
+fossil:dinoRibCage:10, Compsognathus Rib Cage
+fossil:dinoRibCage:11, Ankylosaurus Rib Cage
+fossil:dinoRibCage:12, Pachycephalosaurus Rib Cage
+fossil:dinoRibCage:13, Deinonychus Rib Cage
+fossil:dinoRibCage:14, Gallimimus Rib Cage
+fossil:dinoRibCage:15, Liopleurodon Rib Cage
+fossil:dinoRibCage:16, Allosaurus Rib Cage
+fossil:dinoRibCage:17, Sarcosuchus Rib Cage
+fossil:dinoRibCage:18, Ceratosaurus Rib Cage
+fossil:dinoRibCage:19, Dryosaurus Rib Cage
+fossil:dinoRibCage:20, Therizinosaurus Rib Cage
+fossil:dinoRibCage:21, Parasaurolophus Rib Cage
+fossil:dinoRibCage:22, Confuciusornis Rib Cage
+fossil:dinoRibCage:23, Ichthyosaurus Rib Cage
+fossil:dinoRibCage:24, Henodus Rib Cage
+fossil:dinoRibCage:25, Dodo Rib Cage
+fossil:dinoRibCage:26, Gastornis Rib Cage
+fossil:dinoRibCage:27, Kelenken Rib Cage
+fossil:dinoRibCage:28, Phorusrhacos Rib Cage
+fossil:dinoRibCage:29, Titanis Rib Cage
+fossil:dinoRibCage:30, Mammoth Rib Cage
+fossil:dinoRibCage:31, Smilodon Rib Cage
+fossil:dinoRibCage:32, Quagga Rib Cage
+fossil:dinoRibCage:33, Elasmotherium Rib Cage
+fossil:claw:0, Triceratops Horn
+fossil:claw:1, Velociraptor Talon
+fossil:claw:2, Tyrannosaurus Tooth
+fossil:claw:3, Pteranodon Finger
+fossil:claw:4, Plesiosaurus Teeth
+fossil:claw:5, Mosasaurus Tooth
+fossil:claw:6, Stegosaurus Thagomizer
+fossil:claw:7, Dilophosaurus Claw
+fossil:claw:8, Brachiosaurus Claw
+fossil:claw:9, Spinosaurus Sail
+fossil:claw:10, Compsognathus Claw
+fossil:claw:11, Ankylosaurus Tail Club
+fossil:claw:12, Pachycephalosaurus Skull Horn
+fossil:claw:13, Deinonychus Talon
+fossil:claw:14, Gallimimus Claw
+fossil:claw:15, Liopleurodon Gastralias
+fossil:claw:16, Allosaurus Claw
+fossil:claw:17, Sarcosuchus Osteoderms
+fossil:claw:18, Ceratosaurus Horn
+fossil:claw:19, Dryosaurus Tooth
+fossil:claw:20, Therizinosaurus Claw
+fossil:claw:21, Parasaurolophus Crest
+fossil:claw:22, Confuciusornis Claw
+fossil:claw:23, Ichthyosaurus Eye
+fossil:claw:24, Henodus Shell
+fossil:claw:25, Dodo Wishbone
+fossil:claw:26, Gastornis Wishbone
+fossil:claw:27, Kelenken Wishbone
+fossil:claw:28, Phorusrhacos Wishbone
+fossil:claw:29, Titanis Wishbone
+fossil:claw:30, Mammoth Tusk
+fossil:claw:31, Smilodon Tooth
+fossil:claw:32, Quagga Tooth
+fossil:claw:33, Elasmotherium Horn
+fossil:armBone:0, Triceratops Arm Bone
+fossil:armBone:1, Velociraptor Arm Bone
+fossil:armBone:2, Tyrannosaurus Arm Bone
+fossil:armBone:3, Pteranodon Arm Bone
+fossil:armBone:4, Plesiosaurus Arm Bone
+fossil:armBone:5, Mosasaurus Arm Bone
+fossil:armBone:6, Stegosaurus Arm Bone
+fossil:armBone:7, Dilophosaurus Arm Bone
+fossil:armBone:8, Brachiosaurus Arm Bone
+fossil:armBone:9, Spinosaurus Arm Bone
+fossil:armBone:10, Compsognathus Arm Bone
+fossil:armBone:11, Ankylosaurus Arm Bone
+fossil:armBone:12, Pachycephalosaurus Arm Bone
+fossil:armBone:13, Deinonychus Arm Bone
+fossil:armBone:14, Gallimimus Arm Bone
+fossil:armBone:15, Liopleurodon Arm Bone
+fossil:armBone:16, Allosaurus Arm Bone
+fossil:armBone:17, Sarcosuchus Arm Bone
+fossil:armBone:18, Ceratosaurus Arm Bone
+fossil:armBone:19, Dryosaurus Arm Bone
+fossil:armBone:20, Therizinosaurus Arm Bone
+fossil:armBone:21, Parasaurolophus Arm Bone
+fossil:armBone:22, Confuciusornis Arm Bone
+fossil:armBone:23, Ichthyosaurus Arm Bone
+fossil:armBone:24, Henodus Arm Bone
+fossil:armBone:25, Dodo Arm Bone
+fossil:armBone:26, Gastornis Arm Bone
+fossil:armBone:27, Kelenken Arm Bone
+fossil:armBone:28, Phorusrhacos Arm Bone
+fossil:armBone:29, Titanis Arm Bone
+fossil:armBone:30, Mammoth Arm Bone
+fossil:armBone:31, Smilodon Arm Bone
+fossil:armBone:32, Quagga Arm Bone
+fossil:armBone:33, Elasmotherium Arm Bone
+fossil:vertebrae:0, Triceratops Vertebrae
+fossil:vertebrae:1, Velociraptor Vertebrae
+fossil:vertebrae:2, Tyrannosaurus Vertebrae
+fossil:vertebrae:3, Pteranodon Vertebrae
+fossil:vertebrae:4, Plesiosaurus Vertebrae
+fossil:vertebrae:5, Mosasaurus Vertebrae
+fossil:vertebrae:6, Stegosaurus Vertebrae
+fossil:vertebrae:7, Dilophosaurus Vertebrae
+fossil:vertebrae:8, Brachiosaurus Vertebrae
+fossil:vertebrae:9, Spinosaurus Vertebrae
+fossil:vertebrae:10, Compsognathus Vertebrae
+fossil:vertebrae:11, Ankylosaurus Vertebrae
+fossil:vertebrae:12, Pachycephalosaurus Vertebrae
+fossil:vertebrae:13, Deinonychus Vertebrae
+fossil:vertebrae:14, Gallimimus Vertebrae
+fossil:vertebrae:15, Liopleurodon Vertebrae
+fossil:vertebrae:16, Allosaurus Vertebrae
+fossil:vertebrae:17, Sarcosuchus Vertebrae
+fossil:vertebrae:18, Ceratosaurus Vertebrae
+fossil:vertebrae:19, Dryosaurus Vertebrae
+fossil:vertebrae:20, Therizinosaurus Vertebrae
+fossil:vertebrae:21, Parasaurolophus Vertebrae
+fossil:vertebrae:22, Confuciusornis Vertebrae
+fossil:vertebrae:23, Ichthyosaurus Vertebrae
+fossil:vertebrae:24, Henodus Vertebrae
+fossil:vertebrae:25, Dodo Vertebrae
+fossil:vertebrae:26, Gastornis Vertebrae
+fossil:vertebrae:27, Kelenken Vertebrae
+fossil:vertebrae:28, Phorusrhacos Vertebrae
+fossil:vertebrae:29, Titanis Vertebrae
+fossil:vertebrae:30, Mammoth Vertebrae
+fossil:vertebrae:31, Smilodon Vertebrae
+fossil:vertebrae:32, Quagga Vertebrae
+fossil:vertebrae:33, Elasmotherium Vertebrae
+fossil:legBone:0, Triceratops Leg Bone
+fossil:legBone:1, Velociraptor Leg Bone
+fossil:legBone:2, Tyrannosaurus Leg Bone
+fossil:legBone:3, Pteranodon Leg Bone
+fossil:legBone:4, Plesiosaurus Leg Bone
+fossil:legBone:5, Mosasaurus Leg Bone
+fossil:legBone:6, Stegosaurus Leg Bone
+fossil:legBone:7, Dilophosaurus Leg Bone
+fossil:legBone:8, Brachiosaurus Leg Bone
+fossil:legBone:9, Spinosaurus Leg Bone
+fossil:legBone:10, Compsognathus Leg Bone
+fossil:legBone:11, Ankylosaurus Leg Bone
+fossil:legBone:12, Pachycephalosaurus Leg Bone
+fossil:legBone:13, Deinonychus Leg Bone
+fossil:legBone:14, Gallimimus Leg Bone
+fossil:legBone:15, Liopleurodon Leg Bone
+fossil:legBone:16, Allosaurus Leg Bone
+fossil:legBone:17, Sarcosuchus Leg Bone
+fossil:legBone:18, Ceratosaurus Leg Bone
+fossil:legBone:19, Dryosaurus Leg Bone
+fossil:legBone:20, Therizinosaurus Leg Bone
+fossil:legBone:21, Parasaurolophus Leg Bone
+fossil:legBone:22, Confuciusornis Leg Bone
+fossil:legBone:23, Ichthyosaurus Leg Bone
+fossil:legBone:24, Henodus Leg Bone
+fossil:legBone:25, Dodo Leg Bone
+fossil:legBone:26, Gastornis Leg Bone
+fossil:legBone:27, Kelenken Leg Bone
+fossil:legBone:28, Phorusrhacos Leg Bone
+fossil:legBone:29, Titanis Leg Bone
+fossil:legBone:30, Mammoth Leg Bone
+fossil:legBone:31, Smilodon Leg Bone
+fossil:legBone:32, Quagga Leg Bone
+fossil:legBone:33, Elasmotherium Leg Bone
+fossil:foot:0, Triceratops Foot
+fossil:foot:1, Velociraptor Foot
+fossil:foot:2, Tyrannosaurus Foot
+fossil:foot:3, Pteranodon Foot
+fossil:foot:4, Plesiosaurus Foot
+fossil:foot:5, Mosasaurus Foot
+fossil:foot:6, Stegosaurus Foot
+fossil:foot:7, Dilophosaurus Foot
+fossil:foot:8, Brachiosaurus Foot
+fossil:foot:9, Spinosaurus Foot
+fossil:foot:10, Compsognathus Foot
+fossil:foot:11, Ankylosaurus Foot
+fossil:foot:12, Pachycephalosaurus Foot
+fossil:foot:13, Deinonychus Foot
+fossil:foot:14, Gallimimus Foot
+fossil:foot:15, Liopleurodon Foot
+fossil:foot:16, Allosaurus Foot
+fossil:foot:17, Sarcosuchus Foot
+fossil:foot:18, Ceratosaurus Foot
+fossil:foot:19, Dryosaurus Foot
+fossil:foot:20, Therizinosaurus Foot
+fossil:foot:21, Parasaurolophus Foot
+fossil:foot:22, Confuciusornis Foot
+fossil:foot:23, Ichthyosaurus Foot
+fossil:foot:24, Henodus Foot
+fossil:foot:25, Dodo Foot
+fossil:foot:26, Gastornis Foot
+fossil:foot:27, Kelenken Foot
+fossil:foot:28, Phorusrhacos Foot
+fossil:foot:29, Titanis Foot
+fossil:foot:30, Mammoth Foot
+fossil:foot:31, Smilodon Foot
+fossil:foot:32, Quagga Hoof
+fossil:foot:33, Elasmotherium Foot
+fossil:dnaNautilus, Nautilus DNA
+fossil:dnaCoelacanth, Coelacanth DNA
+fossil:dnaAlligator_Gar, Alligator Gar DNA
+fossil:dnaSturgeon, Sturgeon DNA
+fossil:dnaTriceratops, Triceratops DNA
+fossil:dnaVelociraptor, Velociraptor DNA
+fossil:dnaTyrannosaurus, Tyrannosaurus DNA
+fossil:dnaPterosaur, Pteranodon DNA
+fossil:dnaPlesiosaur, Plesiosaurus DNA
+fossil:dnaMosasaurus, Mosasaurus DNA
+fossil:dnaStegosaurus, Stegosaurus DNA
+fossil:dnaDilophosaurus, Dilophosaurus DNA
+fossil:dnaBrachiosaurus, Brachiosaurus DNA
+fossil:dnaSpinosaurus, Spinosaurus DNA
+fossil:dnaCompsognathus, Compsognathus DNA
+fossil:dnaAnkylosaurus, Ankylosaurus DNA
+fossil:dnaPachycephalosaurus, Pachycephalosaurus DNA
+fossil:dnaDeinonychus, Deinonychus DNA
+fossil:dnaGallimimus, Gallimimus DNA
+fossil:dnaLiopleurodon, Liopleurodon DNA
+fossil:dnaAllosaurus, Allosaurus DNA
+fossil:dnaSarcosuchus, Sarcosuchus DNA
+fossil:dnaCeratosaurus, Ceratosaurus DNA
+fossil:dnaDryosaurus, Dryosaurus DNA
+fossil:dnaTherizinosaurus, Therizinosaurus DNA
+fossil:dnaIcthyosaurus, Ichthyosaurus DNA
+fossil:dnaHenodus, Henodus DNA
+fossil:dnaParasaurolophus, Parasaurolophus DNA
+fossil:dnaConfuciusornis, Confuciusornis DNA
+fossil:dnaDodo, Dodo DNA
+fossil:dnaGastornis, Gastornis DNA
+fossil:dnaKelenken, Kelenken DNA
+fossil:dnaPhorusrhacos, Phorusrhacos DNA
+fossil:dnaTitanis, Titanis DNA
+fossil:dnaMammoth, Mammoth DNA
+fossil:dnaSmilodon, Smilodon DNA
+fossil:dnaQuagga, Quagga DNA
+fossil:dnaElasmotherium, Elasmotherium DNA
+fossil:dnaPig, Pig DNA
+fossil:dnaCow, Cow DNA
+fossil:dnaSheep, Sheep DNA
+fossil:dnaHorse, Horse DNA
+fossil:dnaChicken, Chicken DNA
+fossil:eggNautilus:0, Nautilus Spawn
+fossil:eggCoelacanth:0, Coelacanth Spawn
+fossil:eggAlligator_Gar:0, Alligator Gar Spawn
+fossil:eggSturgeon:0, Sturgeon Spawn
+fossil:eggTriceratops:0, Triceratops Egg
+fossil:eggVelociraptor:0, Velociraptor Egg
+fossil:eggTyrannosaurus:0, Tyrannosaurus Egg
+fossil:eggPterosaur:0, Pteranodon Egg
+fossil:eggPlesiosaur:0, Plesiosaurus Sac
+fossil:eggMosasaurus:0, Mosasaurus Sac
+fossil:eggStegosaurus:0, Stegosaurus Egg
+fossil:eggDilophosaurus:0, Dilophosaurus Egg
+fossil:eggBrachiosaurus:0, Brachiosaurus Egg
+fossil:eggSpinosaurus:0, Spinosaurus Egg
+fossil:eggCompsognathus:0, Compsognathus Egg
+fossil:eggAnkylosaurus:0, Ankylosaurus Egg
+fossil:eggPachycephalosaurus:0, Pachycephalosaurus Egg
+fossil:eggDeinonychus:0, Deinonychus Egg
+fossil:eggGallimimus:0, Gallimimus Egg
+fossil:eggLiopleurodon:0, Liopleurodon Sac
+fossil:eggAllosaurus:0, Allosaurus Egg
+fossil:eggSarcosuchus:0, Sarcosuchus Egg
+fossil:eggCeratosaurus:0, Ceratosaurus Egg
+fossil:eggDryosaurus:0, Dryosaurus Egg
+fossil:eggTherizinosaurus:0, Therizinosaurus Egg
+fossil:eggIcthyosaurus:0, Ichthyosaurus Sac
+fossil:eggHenodus:0, Henodus Egg
+fossil:eggParasaurolophus:0, Parasaurolophus Egg
+fossil:embryoMammoth, Mammoth Embryo
+fossil:embryoSmilodon, Smilodon Embryo
+fossil:embryoQuagga, Quagga Embryo
+fossil:embryoElasmotherium, Elasmotherium Embryo
+fossil:embryoPig, Pig Embryo
+fossil:embryoCow, Cow Embryo
+fossil:embryoSheep, Sheep Embryo
+fossil:embryoHorse, Horse Embryo
+fossil:fishNautilus:0, Nautilus
+fossil:fishCoelacanth:0, Coelacanth
+fossil:fishAlligator_Gar:0, Alligator Gar
+fossil:fishSturgeon:0, Sturgeon
+fossil:eggConfuciusornis, Confuciusornis Egg
+fossil:eggDodo, Dodo Egg
+fossil:eggGastornis, Gastornis Egg
+fossil:eggKelenken, Kelenken Egg
+fossil:eggPhorusrhacos, Phorusrhacos Egg
+fossil:eggTitanis, Titanis Egg
+fossil:eggCultivatedConfuciusornis, Cultivated Confuciusornis Egg
+fossil:eggCultivatedDodo, Cultivated Dodo Egg
+fossil:eggCultivatedGastornis, Cultivated Gastornis Egg
+fossil:eggCultivatedKelenken, Cultivated Kelenken Egg
+fossil:eggCultivatedPhorusrhacos, Cultivated Phorusrhacos Egg
+fossil:eggCultivatedTitanis, Cultivated Titanis Egg
+fossil:eggCultivatedChicken, Cultivated Chicken Egg
+fossil:rawTriceratops, Triceratops Meat
+fossil:rawVelociraptor, Velociraptor Meat
+fossil:rawTyrannosaurus, Tyrannosaurus Meat
+fossil:rawPterosaur, Pteranodon Meat
+fossil:rawPlesiosaur, Plesiosaurus Meat
+fossil:rawMosasaurus, Mosasaurus Meat
+fossil:rawStegosaurus, Stegosaurus Meat
+fossil:rawDilophosaurus, Dilophosaurus Meat
+fossil:rawBrachiosaurus, Brachiosaurus Meat
+fossil:rawSpinosaurus, Spinosaurus Meat
+fossil:rawCompsognathus, Compsognathus Meat
+fossil:rawAnkylosaurus, Ankylosaurus Meat
+fossil:rawPachycephalosaurus, Pachycephalosaurus Meat
+fossil:rawDeinonychus, Deinonychus Meat
+fossil:rawGallimimus, Gallimimus Meat
+fossil:rawLiopleurodon, Liopleurodon Meat
+fossil:rawAllosaurus, Allosaurus Meat
+fossil:rawSarcosuchus, Sarcosuchus Meat
+fossil:rawCeratosaurus, Ceratosaurus Meat
+fossil:rawDryosaurus, Raw Dryosaurus
+fossil:rawTherizinosaurus, Raw Therizinosaurus
+fossil:rawIcthyosaurus, Raw Ichthyosaurus
+fossil:rawHenodus, Raw Henodus
+fossil:rawParasaurolophus, Raw Parasaurolophus
+fossil:rawConfuciusornis, Confuciusornis Meat
+fossil:rawDodo, Dodo Meat
+fossil:rawGastornis, Gastornis Meat
+fossil:rawKelenken, Kelenken Meat
+fossil:rawPhorusrhacos, Phorusrhacos Meat
+fossil:rawTitanis, Titanis Meat
+fossil:rawMammoth, Mammoth Meat
+fossil:rawSmilodon, Smilodon Meat
+fossil:rawQuagga, Quagga Meat
+fossil:rawElasmotherium, Elasmotherium Meat
+fossil:cookedCoelacanth, Cooked Coelacanth Meat
+fossil:cookedAlligator_Gar, Cooked Alligator Gar Meat
+fossil:cookedSturgeon, Cooked Sturgeon Meat
+fossil:cookedTriceratops, Cooked Triceratops Meat
+fossil:cookedVelociraptor, Cooked Velociraptor Meat
+fossil:cookedTyrannosaurus, Cooked Tyrannosaurus Meat
+fossil:cookedPterosaur, Cooked Pteranodon Meat
+fossil:cookedPlesiosaur, Cooked Plesiosaurus Meat
+fossil:cookedMosasaurus, Cooked Mosasaurus Meat
+fossil:cookedStegosaurus, Cooked Stegosaurus Meat
+fossil:cookedDilophosaurus, Cooked Dilophosaurus Meat
+fossil:cookedBrachiosaurus, Cooked Brachiosaurus Meat
+fossil:cookedSpinosaurus, Cooked Spinosaurus Meat
+fossil:cookedCompsognathus, Cooked Compsognathus Meat
+fossil:cookedAnkylosaurus, Cooked Ankylosaurus Meat
+fossil:cookedPachycephalosaurus, Cooked Pachycephalosaurus Meat
+fossil:cookedDeinonychus, Cooked Deinonychus Meat
+fossil:cookedGallimimus, Cooked Gallimimus Meat
+fossil:cookedLiopleurodon, Cooked Liopleurodon Meat
+fossil:cookedAllosaurus, Cooked Allosaurus Meat
+fossil:cookedSarcosuchus, Cooked Sarcosuchus Meat
+fossil:cookedCeratosaurus, Cooked Ceratosaurus Meat
+fossil:cookedDryosaurus, Cooked Dryosaurus
+fossil:cookedTherizinosaurus, Cooked Therizinosaurus
+fossil:cookedIcthyosaurus, Cooked Ichthyosaurus
+fossil:cookedHenodus, Cooked Henodus
+fossil:cookedParasaurolophus, Cooked Parasaurolophus
+fossil:cookedConfuciusornis, Cooked Confuciusornis Meat
+fossil:cookedDodo, Cooked Dodo Meat
+fossil:cookedGastornis, Cooked Gastornis Meat
+fossil:cookedKelenken, Cooked Kelenken Meat
+fossil:cookedPhorusrhacos, Cooked Phorusrhacos Meat
+fossil:cookedTitanis, Cooked Titanis Meat
+fossil:cookedMammoth, Cooked Mammoth Meat
+fossil:cookedSmilodon, Cooked Smilodon Meat
+fossil:cookedQuagga, Cooked Quagga Meat
+fossil:cookedElasmotherium, Cooked Elasmotherium Meat
 gadomancy:ItemTransformationFocus, [WIP] Wand Focus: Transformation
 gadomancy:ItemGolemCoreBreak:0, Golem Animation Core
 gadomancy:ItemGolemCoreBreak:1, Golem Animation Core
@@ -23201,8 +23940,6 @@ plantmegapack:flowerTorchGinger, Torch Ginger Flower
 plantmegapack:flowerYellowToadflaxItem, Yellow Toadflax Flower
 plantmegapack:leafAloe, Aloe Leaf
 plantmegapack:leafWildMint, Wild Mint Leaf
-Progression:item:1, Progression Tile Claimer
-Progression:item:2, Progression Book
 quiverchevsky:ammochevsky_ArrowBundle, item.null.name
 quiverchevsky:ammochevsky_RocketBundle, item.null.name
 quiverchevsky:ammochevsky_SugarMagazine:0, Clip of Sugar Rods
@@ -23496,140 +24233,6 @@ JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:0, Carriage Cross
 JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:1, Carriage Panel
 JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2, Carriage Framework
 JAKJ_RedstoneInMotion:Hollow Carriage, JAKJ_RedstoneInMotion:FMPCarriage.name
-simplyjetpacks:jetpacksCommon:0, Tuberous Jetpack
-simplyjetpacks:jetpacksCommon:9001, Creative Jetpack
-simplyjetpacks:fluxpacksCommon:9001, Creative Flux Pack
-simplyjetpacks:jetpacks:1, Leadstone Jetpack
-simplyjetpacks:jetpacks:1, Leadstone Jetpack
-simplyjetpacks:jetpacks:101, Leadstone Jetpack (Armored)
-simplyjetpacks:jetpacks:101, Leadstone Jetpack (Armored)
-simplyjetpacks:jetpacks:2, Hardened Jetpack
-simplyjetpacks:jetpacks:2, Hardened Jetpack
-simplyjetpacks:jetpacks:102, Hardened Jetpack (Armored)
-simplyjetpacks:jetpacks:102, Hardened Jetpack (Armored)
-simplyjetpacks:jetpacks:3, Reinforced Jetpack
-simplyjetpacks:jetpacks:3, Reinforced Jetpack
-simplyjetpacks:jetpacks:103, Reinforced Jetpack (Armored)
-simplyjetpacks:jetpacks:103, Reinforced Jetpack (Armored)
-simplyjetpacks:jetpacks:4, Resonant Jetpack
-simplyjetpacks:jetpacks:4, Resonant Jetpack
-simplyjetpacks:jetpacks:104, Resonant Jetpack (Armored)
-simplyjetpacks:jetpacks:104, Resonant Jetpack (Armored)
-simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
-simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
-simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
-simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
-simplyjetpacks:fluxpacks:1, Leadstone Flux Pack
-simplyjetpacks:fluxpacks:1, Leadstone Flux Pack
-simplyjetpacks:fluxpacks:2, Hardened Flux Pack
-simplyjetpacks:fluxpacks:2, Hardened Flux Pack
-simplyjetpacks:fluxpacks:102, Hardened Flux Pack (Armored)
-simplyjetpacks:fluxpacks:102, Hardened Flux Pack (Armored)
-simplyjetpacks:fluxpacks:3, Redstone Flux Pack
-simplyjetpacks:fluxpacks:3, Redstone Flux Pack
-simplyjetpacks:fluxpacks:103, Redstone Flux Pack (Armored)
-simplyjetpacks:fluxpacks:103, Redstone Flux Pack (Armored)
-simplyjetpacks:fluxpacks:4, Resonant Flux Pack
-simplyjetpacks:fluxpacks:4, Resonant Flux Pack
-simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
-simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
-simplyjetpacks:jetpacksEIO:1, Conductive Iron Jetpack
-simplyjetpacks:jetpacksEIO:1, Conductive Iron Jetpack
-simplyjetpacks:jetpacksEIO:101, Conductive Iron Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:101, Conductive Iron Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:2, Electrical Steel Jetpack
-simplyjetpacks:jetpacksEIO:2, Electrical Steel Jetpack
-simplyjetpacks:jetpacksEIO:102, Electrical Steel Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:102, Electrical Steel Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:3, Energetic Jetpack
-simplyjetpacks:jetpacksEIO:3, Energetic Jetpack
-simplyjetpacks:jetpacksEIO:103, Energetic Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:103, Energetic Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:4, Vibrant Jetpack
-simplyjetpacks:jetpacksEIO:4, Vibrant Jetpack
-simplyjetpacks:jetpacksEIO:104, Vibrant Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:104, Vibrant Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:5, Dark Soularium JetPlate
-simplyjetpacks:jetpacksEIO:5, Dark Soularium JetPlate
-simplyjetpacks:fluxpacksEIO:1, Basic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:1, Basic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:2, Double-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:2, Double-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:102, Double-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:102, Double-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:3, Quadruple-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:3, Quadruple-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:103, Quadruple-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:103, Quadruple-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:4, Octadic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:4, Octadic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:104, Octadic Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:104, Octadic Capacitor Pack (Armored)
-simplyjetpacks:components:0, Leather Strap
-simplyjetpacks:components:11, Leadstone Thruster
-simplyjetpacks:components:12, Hardened Thruster
-simplyjetpacks:components:13, Reinforced Thruster
-simplyjetpacks:components:14, Resonant Thruster
-simplyjetpacks:components:15, Fluxed Thruster
-simplyjetpacks:components:21, Conductive Iron Thruster
-simplyjetpacks:components:22, Electrical Steel Thruster
-simplyjetpacks:components:23, Energetic Thruster
-simplyjetpacks:components:24, Vibrant Thruster
-simplyjetpacks:components:25, Dark Soularium Thruster
-simplyjetpacks:components:59, Enderium Flux Overlay
-simplyjetpacks:components:60, Glowstone Elevation Unit (Empty)
-simplyjetpacks:components:61, Glowstone Elevation Unit
-simplyjetpacks:components:62, Cryotheum Coolant Unit (Empty)
-simplyjetpacks:components:63, Cryotheum Coolant Unit
-simplyjetpacks:components:70, Dark Soularium Ingot
-simplyjetpacks:components:71, Reinforced Glider Wing
-simplyjetpacks:components:72, Flight Control Unit (Empty)
-simplyjetpacks:components:73, Flight Control Unit
-simplyjetpacks:armorPlatings:1, Iron Armor Plating
-simplyjetpacks:armorPlatings:2, Bronze Armor Plating
-simplyjetpacks:armorPlatings:3, Invar Armor Plating
-simplyjetpacks:armorPlatings:4, Enderium Armor Plating
-simplyjetpacks:armorPlatings:11, Silicon Armor Plating
-simplyjetpacks:armorPlatings:12, Conductive Iron Armor Plating
-simplyjetpacks:armorPlatings:13, Electrical Steel Armor Plating
-simplyjetpacks:armorPlatings:14, Dark Steel Armor Plating
-simplyjetpacks:particleCustomizers:0, Particle Customizer (Default)
-simplyjetpacks:particleCustomizers:1, Particle Customizer (None)
-simplyjetpacks:particleCustomizers:2, Particle Customizer (Smoke Only)
-simplyjetpacks:particleCustomizers:3, Particle Customizer (Rainbow Smoke)
-simplyjetpacks:jetpackFueller, Jetpack Fueller
-simplyjetpacks:mysteriousPotato, Mysterious Potato
-rfdrills:motor_te:0, Leadstone Motor
-rfdrills:motor_te:1, Hardened Motor
-rfdrills:motor_te:2, Redstone Motor
-rfdrills:motor_te:3, Redstone Motor Frame
-rfdrills:motor_te:4, Resonant Motor
-rfdrills:motor_te:5, Resonant Motor Frame
-rfdrills:motor_te:6, Fluctuating Core
-rfdrills:motor_te:7, Fluctuating Core Frame
-rfdrills:motor_te:8, Redstone Superconductance Coil
-rfdrills:leadstone_drill, Leadstone Mining Drill
-rfdrills:hardened_drill, Hardened Mining Drill
-rfdrills:redstone_drill, Redstone Mining Drill
-rfdrills:resonant_drill, Resonant Mining Drill
-rfdrills:leadstone_chainsaw, Leadstone Chainsaw
-rfdrills:hardened_chainsaw, Hardened Chainsaw
-rfdrills:redstone_chainsaw, Redstone Chainsaw
-rfdrills:resonant_chainsaw, Resonant Chainsaw
-rfdrills:flux_infused_crusher, Flux-Infused Crusher
-rfdrills:motor_eio:0, Basic Motor
-rfdrills:motor_eio:1, Advanced Motor
-rfdrills:motor_eio:2, Resonating Crystal
-rfdrills:motor_eio:3, Soularium Nugget
-rfdrills:motor_eio:4, Dark Soularium Nugget
-rfdrills:motor_eio:5, Destructive Crystal
-rfdrills:motor_eio:6, Earthshaking Crystal
-rfdrills:basic_drill, Basic Mining Drill
-rfdrills:advanced_drill, Advanced Mining Drill
-rfdrills:basic_chainsaw, Basic Chainsaw
-rfdrills:advanced_chainsaw, Advanced Chainsaw
-rfdrills:soul_crusher, Dark Soularium Crusher
-rfdrills:flux_hoe, Flux Hoe
 rftools:shapeCardItem:0, Shape Card
 rftools:shapeCardItem:1, Shape Card (Void)
 rftools:shapeCardItem:2, Shape Card (Quarry)
@@ -23766,6 +24369,121 @@ Sanguimancy:resource:4, Sanguine Shifter
 Sanguimancy:soulTransporter, Soul Transporter
 Sanguimancy:telepositionSigil, Teleposition Sigil
 Sanguimancy:transpositionSigil, Sigil of Transposition
+simplyjetpacks:jetpacksCommon:0, Tuberous Jetpack
+simplyjetpacks:jetpacksCommon:9001, Creative Jetpack
+simplyjetpacks:fluxpacksCommon:9001, Creative Flux Pack
+simplyjetpacks:jetpacks:1, Leadstone Jetpack
+simplyjetpacks:jetpacks:1, Leadstone Jetpack
+simplyjetpacks:jetpacks:101, Leadstone Jetpack (Armored)
+simplyjetpacks:jetpacks:101, Leadstone Jetpack (Armored)
+simplyjetpacks:jetpacks:2, Hardened Jetpack
+simplyjetpacks:jetpacks:2, Hardened Jetpack
+simplyjetpacks:jetpacks:102, Hardened Jetpack (Armored)
+simplyjetpacks:jetpacks:102, Hardened Jetpack (Armored)
+simplyjetpacks:jetpacks:3, Reinforced Jetpack
+simplyjetpacks:jetpacks:3, Reinforced Jetpack
+simplyjetpacks:jetpacks:103, Reinforced Jetpack (Armored)
+simplyjetpacks:jetpacks:103, Reinforced Jetpack (Armored)
+simplyjetpacks:jetpacks:4, Resonant Jetpack
+simplyjetpacks:jetpacks:4, Resonant Jetpack
+simplyjetpacks:jetpacks:104, Resonant Jetpack (Armored)
+simplyjetpacks:jetpacks:104, Resonant Jetpack (Armored)
+simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
+simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
+simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
+simplyjetpacks:jetpacks:5, Flux-Infused JetPlate
+simplyjetpacks:fluxpacks:1, Leadstone Flux Pack
+simplyjetpacks:fluxpacks:1, Leadstone Flux Pack
+simplyjetpacks:fluxpacks:2, Hardened Flux Pack
+simplyjetpacks:fluxpacks:2, Hardened Flux Pack
+simplyjetpacks:fluxpacks:102, Hardened Flux Pack (Armored)
+simplyjetpacks:fluxpacks:102, Hardened Flux Pack (Armored)
+simplyjetpacks:fluxpacks:3, Redstone Flux Pack
+simplyjetpacks:fluxpacks:3, Redstone Flux Pack
+simplyjetpacks:fluxpacks:103, Redstone Flux Pack (Armored)
+simplyjetpacks:fluxpacks:103, Redstone Flux Pack (Armored)
+simplyjetpacks:fluxpacks:4, Resonant Flux Pack
+simplyjetpacks:fluxpacks:4, Resonant Flux Pack
+simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
+simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
+simplyjetpacks:jetpacksEIO:1, Conductive Iron Jetpack
+simplyjetpacks:jetpacksEIO:1, Conductive Iron Jetpack
+simplyjetpacks:jetpacksEIO:101, Conductive Iron Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:101, Conductive Iron Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:2, Electrical Steel Jetpack
+simplyjetpacks:jetpacksEIO:2, Electrical Steel Jetpack
+simplyjetpacks:jetpacksEIO:102, Electrical Steel Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:102, Electrical Steel Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:3, Energetic Jetpack
+simplyjetpacks:jetpacksEIO:3, Energetic Jetpack
+simplyjetpacks:jetpacksEIO:103, Energetic Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:103, Energetic Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:4, Vibrant Jetpack
+simplyjetpacks:jetpacksEIO:4, Vibrant Jetpack
+simplyjetpacks:jetpacksEIO:104, Vibrant Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:104, Vibrant Jetpack (Armored)
+simplyjetpacks:jetpacksEIO:5, Dark Soularium JetPlate
+simplyjetpacks:jetpacksEIO:5, Dark Soularium JetPlate
+simplyjetpacks:fluxpacksEIO:1, Basic Capacitor Pack
+simplyjetpacks:fluxpacksEIO:1, Basic Capacitor Pack
+simplyjetpacks:fluxpacksEIO:2, Double-Layer Capacitor Pack
+simplyjetpacks:fluxpacksEIO:2, Double-Layer Capacitor Pack
+simplyjetpacks:fluxpacksEIO:102, Double-Layer Capacitor Pack (Armored)
+simplyjetpacks:fluxpacksEIO:102, Double-Layer Capacitor Pack (Armored)
+simplyjetpacks:fluxpacksEIO:3, Quadruple-Layer Capacitor Pack
+simplyjetpacks:fluxpacksEIO:3, Quadruple-Layer Capacitor Pack
+simplyjetpacks:fluxpacksEIO:103, Quadruple-Layer Capacitor Pack (Armored)
+simplyjetpacks:fluxpacksEIO:103, Quadruple-Layer Capacitor Pack (Armored)
+simplyjetpacks:fluxpacksEIO:4, Octadic Capacitor Pack
+simplyjetpacks:fluxpacksEIO:4, Octadic Capacitor Pack
+simplyjetpacks:fluxpacksEIO:104, Octadic Capacitor Pack (Armored)
+simplyjetpacks:fluxpacksEIO:104, Octadic Capacitor Pack (Armored)
+simplyjetpacks:jetpacksBC:1, Combustion Jetpack
+simplyjetpacks:jetpacksBC:1, Combustion Jetpack
+simplyjetpacks:jetpacksBC:101, Combustion Jetpack (Armored)
+simplyjetpacks:jetpacksBC:101, Combustion Jetpack (Armored)
+simplyjetpacks:jetpacksBC:2, Kinetic Jetpack
+simplyjetpacks:jetpacksBC:2, Kinetic Jetpack
+simplyjetpacks:jetpacksBC:102, Kinetic Jetpack (Armored)
+simplyjetpacks:jetpacksBC:102, Kinetic Jetpack (Armored)
+simplyjetpacks:components:0, Leather Strap
+simplyjetpacks:components:11, Leadstone Thruster
+simplyjetpacks:components:12, Hardened Thruster
+simplyjetpacks:components:13, Reinforced Thruster
+simplyjetpacks:components:14, Resonant Thruster
+simplyjetpacks:components:15, Fluxed Thruster
+simplyjetpacks:components:21, Conductive Iron Thruster
+simplyjetpacks:components:22, Electrical Steel Thruster
+simplyjetpacks:components:23, Energetic Thruster
+simplyjetpacks:components:24, Vibrant Thruster
+simplyjetpacks:components:25, Dark Soularium Thruster
+simplyjetpacks:components:31, Combustion Thruster
+simplyjetpacks:components:32, Kinetic Thruster
+simplyjetpacks:components:59, Enderium Flux Overlay
+simplyjetpacks:components:60, Glowstone Elevation Unit (Empty)
+simplyjetpacks:components:61, Glowstone Elevation Unit
+simplyjetpacks:components:62, Cryotheum Coolant Unit (Empty)
+simplyjetpacks:components:63, Cryotheum Coolant Unit
+simplyjetpacks:components:70, Dark Soularium Ingot
+simplyjetpacks:components:71, Reinforced Glider Wing
+simplyjetpacks:components:72, Flight Control Unit (Empty)
+simplyjetpacks:components:73, Flight Control Unit
+simplyjetpacks:armorPlatings:1, Iron Armor Plating
+simplyjetpacks:armorPlatings:2, Bronze Armor Plating
+simplyjetpacks:armorPlatings:3, Invar Armor Plating
+simplyjetpacks:armorPlatings:4, Enderium Armor Plating
+simplyjetpacks:armorPlatings:11, Silicon Armor Plating
+simplyjetpacks:armorPlatings:12, Conductive Iron Armor Plating
+simplyjetpacks:armorPlatings:13, Electrical Steel Armor Plating
+simplyjetpacks:armorPlatings:14, Dark Steel Armor Plating
+simplyjetpacks:armorPlatings:21, Reinforced Leather Armor Plating
+simplyjetpacks:armorPlatings:22, Diamond Armor Plating
+simplyjetpacks:particleCustomizers:0, Particle Customizer (Default)
+simplyjetpacks:particleCustomizers:1, Particle Customizer (None)
+simplyjetpacks:particleCustomizers:2, Particle Customizer (Smoke Only)
+simplyjetpacks:particleCustomizers:3, Particle Customizer (Rainbow Smoke)
+simplyjetpacks:jetpackFueller, Jetpack Fueller
+simplyjetpacks:mysteriousPotato, Mysterious Potato
 StevesAddons:duplicator, Manager Duplicator
 StevesAddons:labeler, Factory Labeler
 StevesCarts:ModularCart:0, Modular cart
@@ -23883,6 +24601,92 @@ TaintedMagic:ShadowSpade, Shadow Spade
 TaintedMagic:ShadowSword, Shadow Blade
 TaintedMagic:PrimalBlade, Primal Blade of Corruption
 TaintedMagic:WarpedEye, Warped Eye
+thaumicbases:resource:0, Thauminite Nugget
+thaumicbases:resource:1, Thauminite Ingot
+thaumicbases:resource:2, Thauminite Cap
+thaumicbases:resource:3, Thaumium Wand Core
+thaumicbases:resource:4, Void Wand Core
+thaumicbases:resource:5, Aurelia Petal
+thaumicbases:resource:6, Briar Seed Bag
+thaumicbases:resource:7, Tobacco Leaves Pile
+thaumicbases:resource:8, Bloody Enchanted Fabric
+thaumicbases:thauminiteAxe, Thauminite Axe
+thaumicbases:thauminiteHoe, Thauminite Hoe
+thaumicbases:thauminitePickaxe, Thauminite Pickaxe
+thaumicbases:thauminiteShears, Thauminite Shears
+thaumicbases:thauminiteShovel, Thauminite Shovel
+thaumicbases:thauminiteSword, Thauminite Sword
+thaumicbases:thauminiteHelmet, Thauminite Helmet
+thaumicbases:thauminiteChest, Thauminite Chestplate
+thaumicbases:thauminiteLeggings, Thauminite Leggings
+thaumicbases:thauminiteBoots, Thauminite Boots
+thaumicbases:pyroBucket, Bucket of Pyrofluid
+thaumicbases:plaxSeed, Plax Seeds
+thaumicbases:metalleatSeeds, Metalleat Seeds
+thaumicbases:lucriteSeeds, Lucrite Seeds
+thaumicbases:knoseFragment:0, Aer Fragment
+thaumicbases:knoseFragment:1, Ignis Fragment
+thaumicbases:knoseFragment:2, Aqua Fragment
+thaumicbases:knoseFragment:3, Terra Fragment
+thaumicbases:knoseFragment:4, Ordo Fragment
+thaumicbases:knoseFragment:5, Perditio Fragment
+thaumicbases:knoseFragment:6, Mixed Fragment
+thaumicbases:knoseFragment:7, Tainted Fragment
+thaumicbases:knoseSeed, Rosa Mysteria Sprout
+thaumicbases:sweedSeeds, Sweed Seeds
+thaumicbases:lazulliaSeeds, Lazullia Seeds
+thaumicbases:redlonSeeds, Redlon Seed
+thaumicbases:glieoniaSeed, Glieonia Seed
+thaumicbases:rosehipSyrup, Rosehip Syrup
+thaumicbases:tobaccoSeeds, Tobacco Seeds
+thaumicbases:mortar, Pestle And Mortar
+thaumicbases:tobaccoPowder:0, Tobacco Pile
+thaumicbases:tobaccoPowder:1, Eldrich Tobacco Pile
+thaumicbases:tobaccoPowder:2, Angry Tobacco Pile
+thaumicbases:tobaccoPowder:3, Saturating Tobacco Pile
+thaumicbases:tobaccoPowder:4, Wisdom Tobacco Pile
+thaumicbases:tobaccoPowder:5, Miner's Tobacco Pile
+thaumicbases:tobaccoPowder:6, Relaxing Tobacco Pile
+thaumicbases:tobaccoPowder:7, Tainted Tobacco Pile
+thaumicbases:tobaccoPowder:8, Wispy Tobacco Pile
+thaumicbases:greatwoodPipe, Greatwood Smoking Pipe
+thaumicbases:silverwoodPipe, Silverwood Smoking Pipe
+thaumicbases:voidSeed, Void Plant Seed
+thaumicbases:bloodyChest, Bloody Thaumaturge's Robe
+thaumicbases:bloodyLeggings, Bloody Thaumaturge's Leggings
+thaumicbases:bloodyBoots, Bloody Thaumaturge's Boots
+thaumicbases:concentratedTaint, Concentrated Taint Flask
+thaumicbases:fociActivation, Wand Focus: Activation
+thaumicbases:fociDrain, Wand Focus: Liquid Drain
+thaumicbases:fociExperience, Wand Focus: Experience
+thaumicbases:fociFlux, Wand Focus: Flux Scrubber
+thaumicbases:nodeFoci:0, §eNode Manipulator Focus: Brightness
+thaumicbases:nodeFoci:1, §eNode Manipulator Focus: Destruction
+thaumicbases:nodeFoci:2, §eNode Manipulator Focus: Efficiency
+thaumicbases:nodeFoci:3, §eNode Manipulator Focus: Hunger
+thaumicbases:nodeFoci:4, §eNode Manipulator Focus: Instability
+thaumicbases:nodeFoci:5, §eNode Manipulator Focus: Purity
+thaumicbases:nodeFoci:6, §eNode Manipulator Focus: Sinister
+thaumicbases:nodeFoci:7, §eNode Manipulator Focus: Speed
+thaumicbases:nodeFoci:8, §eNode Manipulator Focus: Stability
+thaumicbases:nodeFoci:9, §eNode Manipulator Focus: Taint
+thaumicbases:herobrinesScythe, Scythe Of The White-Eyed One
+thaumicbases:voidShears, Void Shears
+thaumicbases:voidFAS, Void Flint and Steel
+thaumicbases:revolver, Thaumaturge's Revolver
+thaumicbases:castingBracelet:0, Iron Bracelet
+thaumicbases:castingBracelet:1, Gold Bracelet
+thaumicbases:castingBracelet:2, Greatwood Bracelet
+thaumicbases:castingBracelet:3, Thaumium Bracelet
+thaumicbases:castingBracelet:4, Silverwood Bracelet
+thaumicbases:castingBracelet:5, Reed Bracelet
+thaumicbases:castingBracelet:6, Bone Bracelet
+thaumicbases:castingBracelet:7, Obsidian Bracelet
+thaumicbases:castingBracelet:8, Blaze Bracelet
+thaumicbases:castingBracelet:9, Ice Bracelet
+thaumicbases:castingBracelet:10, Quartz Bracelet
+thaumicbases:castingBracelet:11, Void Bracelet
+thaumicbases:castingBracelet:12, Primal Bracelet
 thaumicenergistics:part.base:0, Essentia Import Bus
 thaumicenergistics:part.base:1, Essentia Level Emitter
 thaumicenergistics:part.base:2, Essentia Storage Bus
@@ -23909,6 +24713,89 @@ thaumicenergistics:wireless.essentia.terminal, Wireless Essentia Terminal
 thaumicenergistics:knowledge.core, Knowledge Core
 thaumicenergistics:focus.aewrench, Wand Focus: AE Wrench
 thaumicenergistics:golem.wifi.backpack, Wireless Golem Backpack
+ThaumicExploration:transmutationCore, Transmutative Rod
+ThaumicExploration:transmutationStaffCore, Transmutative Staff Core
+ThaumicExploration:talismanFood, Talisman of Nourishment
+ThaumicExploration:amberCore, Amber Rod
+ThaumicExploration:amberStaffCore, Amber Staff Core
+ThaumicExploration:necroStaffCore, Necromancer's Staff Core
+ThaumicExploration:sojournerCap, Sojourner's Cap
+ThaumicExploration:sojournerCapUncharged, Inert Sojourner's Cap
+ThaumicExploration:mechanistCap, Mechanist's Cap
+ThaumicExploration:mechanistCapUncharged, Inert Mechanist's Cap
+ThaumicExploration:pureZombieBrain, Cured Zombie Brain
+ThaumicExploration:blankSeal:0, Dark Blank Seal
+ThaumicExploration:blankSeal:1, Red Blank Seal
+ThaumicExploration:blankSeal:2, Green Blank Seal
+ThaumicExploration:blankSeal:3, Brown Blank Seal
+ThaumicExploration:blankSeal:4, Blue Blank Seal
+ThaumicExploration:blankSeal:5, Purple Blank Seal
+ThaumicExploration:blankSeal:6, Cyan Blank Seal
+ThaumicExploration:blankSeal:7, Light Gray Blank Seal
+ThaumicExploration:blankSeal:8, Gray Blank Seal
+ThaumicExploration:blankSeal:9, Pink Blank Seal
+ThaumicExploration:blankSeal:10, Lime Blank Seal
+ThaumicExploration:blankSeal:11, Yellow Blank Seal
+ThaumicExploration:blankSeal:12, Light Blue Blank Seal
+ThaumicExploration:blankSeal:13, Magenta Blank Seal
+ThaumicExploration:blankSeal:14, Orange Blank Seal
+ThaumicExploration:blankSeal:15, Pale Blank Seal
+ThaumicExploration:chestSeal:0, Dark Chest Binding Seal
+ThaumicExploration:chestSeal:1, Red Chest Binding Seal
+ThaumicExploration:chestSeal:2, Green Chest Binding Seal
+ThaumicExploration:chestSeal:3, Brown Chest Binding Seal
+ThaumicExploration:chestSeal:4, Blue Chest Binding Seal
+ThaumicExploration:chestSeal:5, Purple Chest Binding Seal
+ThaumicExploration:chestSeal:6, Cyan Chest Binding Seal
+ThaumicExploration:chestSeal:7, Light Gray Chest Binding Seal
+ThaumicExploration:chestSeal:8, Gray Chest Binding Seal
+ThaumicExploration:chestSeal:9, Pink Chest Binding Seal
+ThaumicExploration:chestSeal:10, Lime Chest Binding Seal
+ThaumicExploration:chestSeal:11, Yellow Chest Binding Seal
+ThaumicExploration:chestSeal:12, Light Blue Chest Binding Seal
+ThaumicExploration:chestSeal:13, Magenta Chest Binding Seal
+ThaumicExploration:chestSeal:14, Orange Chest Binding Seal
+ThaumicExploration:chestSeal:15, Pale Chest Binding Seal
+ThaumicExploration:chestSealLinked:0, Dark Chest Binding Seal
+ThaumicExploration:chestSealLinked:1, Red Chest Binding Seal
+ThaumicExploration:chestSealLinked:2, Green Chest Binding Seal
+ThaumicExploration:chestSealLinked:3, Brown Chest Binding Seal
+ThaumicExploration:chestSealLinked:4, Blue Chest Binding Seal
+ThaumicExploration:chestSealLinked:5, Purple Chest Binding Seal
+ThaumicExploration:chestSealLinked:6, Cyan Chest Binding Seal
+ThaumicExploration:chestSealLinked:7, Light Gray Chest Binding Seal
+ThaumicExploration:chestSealLinked:8, Gray Chest Binding Seal
+ThaumicExploration:chestSealLinked:9, Pink Chest Binding Seal
+ThaumicExploration:chestSealLinked:10, Lime Chest Binding Seal
+ThaumicExploration:chestSealLinked:11, Yellow Chest Binding Seal
+ThaumicExploration:chestSealLinked:12, Light Blue Chest Binding Seal
+ThaumicExploration:chestSealLinked:13, Magenta Chest Binding Seal
+ThaumicExploration:chestSealLinked:14, Orange Chest Binding Seal
+ThaumicExploration:chestSealLinked:15, Pale Chest Binding Seal
+ThaumicExploration:jarSeal:0, Dark Jar Binding Seal
+ThaumicExploration:jarSeal:1, Red Jar Binding Seal
+ThaumicExploration:jarSeal:2, Green Jar Binding Seal
+ThaumicExploration:jarSeal:3, Brown Jar Binding Seal
+ThaumicExploration:jarSeal:4, Blue Jar Binding Seal
+ThaumicExploration:jarSeal:5, Purple Jar Binding Seal
+ThaumicExploration:jarSeal:6, Cyan Jar Binding Seal
+ThaumicExploration:jarSeal:7, Light Gray Jar Binding Seal
+ThaumicExploration:jarSeal:8, Gray Jar Binding Seal
+ThaumicExploration:jarSeal:9, Pink Jar Binding Seal
+ThaumicExploration:jarSeal:10, Lime Jar Binding Seal
+ThaumicExploration:jarSeal:11, Yellow Jar Binding Seal
+ThaumicExploration:jarSeal:12, Light Blue Jar Binding Seal
+ThaumicExploration:jarSeal:13, Magenta Jar Binding Seal
+ThaumicExploration:jarSeal:14, Orange Jar Binding Seal
+ThaumicExploration:jarSeal:15, Pale Jar Binding Seal
+ThaumicExploration:charmNoTaint, Wispy Dreamcatcher
+ThaumicExploration:charmTaint, Tainted Band
+ThaumicExploration:bootsMeteor, Boots of the Meteor
+ThaumicExploration:bootsComet, Boots of the Comet
+ThaumicExploration:taintBerry, Taintberry
+ThaumicExploration:tentacleRing, Taintacle Ring
+ThaumicExploration:stabilizerBelt, Thaumostatic Stabilizer
+ThaumicExploration:discountRing, item.thaumicexploration:discountRing.name
 ThaumicHorizons:spawnerEgg:0, Spawn Chromatic Sheep
 ThaumicHorizons:spawnerEgg:1, Spawn Self-Shearing Sheep
 ThaumicHorizons:spawnerEgg:2, Spawn Guardian Panther
@@ -24311,116 +25198,6 @@ ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
-ThermalDynamics:cover:0, Aether Portal Cover
-ThermalDynamics:cover:0, Holystone Cover
-ThermalDynamics:cover:0, Mossy Holystone Cover
-ThermalDynamics:cover:0, Aether Dirt Cover
-ThermalDynamics:cover:0, Aether Grass Cover
-ThermalDynamics:cover:0, Enchanted Grass Cover
-ThermalDynamics:cover:0, Enchanted Aether Grass Cover
-ThermalDynamics:cover:0, Quicksoil Cover
-ThermalDynamics:cover:0, Icestone Cover
-ThermalDynamics:cover:0, Cold Aercloud Cover
-ThermalDynamics:cover:0, Blue Aercloud Cover
-ThermalDynamics:cover:0, Golden Aercloud Cover
-ThermalDynamics:cover:0, Green Aercloud Cover
-ThermalDynamics:cover:0, Storm Aercloud Cover
-ThermalDynamics:cover:0, Purple Aercloud Cover
-ThermalDynamics:cover:0, Aerogel Cover
-ThermalDynamics:cover:0, Skyroot Log Cover
-ThermalDynamics:cover:0, Golden Oak Log Cover
-ThermalDynamics:cover:0, Skyroot Plank Cover
-ThermalDynamics:cover:0, Green Skyroot Leaves Cover
-ThermalDynamics:cover:0, Golden Oak Leaves Cover
-ThermalDynamics:cover:0, Green Skyroot Sapling Cover
-ThermalDynamics:cover:0, Golden Oak Sapling Cover
-ThermalDynamics:cover:0, Ambrosium Ore Cover
-ThermalDynamics:cover:0, Ambrosium Torch Cover
-ThermalDynamics:cover:0, Zanite Ore Cover
-ThermalDynamics:cover:0, Gravitite Ore Cover
-ThermalDynamics:cover:0, Enchanted Gravitite Cover
-ThermalDynamics:cover:0, tile.trap0.name Cover
-ThermalDynamics:cover:0, Carved Stone Cover
-ThermalDynamics:cover:0, Sentry Stone Cover
-ThermalDynamics:cover:0, Divine Carved Stone Cover
-ThermalDynamics:cover:0, Divine Sentry Stone Cover
-ThermalDynamics:cover:0, White Gold Pillar Cover
-ThermalDynamics:cover:0, White Gold Carved Pillar Cover
-ThermalDynamics:cover:0, Labyrinth Pillar Cover
-ThermalDynamics:cover:0, Carved Labyrinth Pillar Cover
-ThermalDynamics:cover:0, Zanite Block Cover
-ThermalDynamics:cover:0, Quicksoil Glass Cover
-ThermalDynamics:cover:0, White Rose Cover
-ThermalDynamics:cover:0, Purple Flower Cover
-ThermalDynamics:cover:0, Present Cover
-ThermalDynamics:cover:0, Berry Bush Cover
-ThermalDynamics:cover:0, Berry Bush Stem Cover
-ThermalDynamics:cover:0, Holystone Stairs Cover
-ThermalDynamics:cover:0, Mossy Holystone Stairs Cover
-ThermalDynamics:cover:0, Icestone Stairs Cover
-ThermalDynamics:cover:0, Skyroot Stairs Cover
-ThermalDynamics:cover:0, Carved Stone Stairs Cover
-ThermalDynamics:cover:0, Holystone Wall Cover
-ThermalDynamics:cover:0, Mossy Holystone Wall Cover
-ThermalDynamics:cover:0, Icestone Wall Cover
-ThermalDynamics:cover:0, Skyroot Fence Cover
-ThermalDynamics:cover:0, Carved Stone Wall Cover
-ThermalDynamics:cover:0, Holystone Brick Cover
-ThermalDynamics:cover:0, Skyroot Log Wall Cover
-ThermalDynamics:cover:0, Tall Aether Grass Cover
-ThermalDynamics:cover:0, Dark Blue Skyroot Leaves Cover
-ThermalDynamics:cover:0, Blue Skyroot Leaves Cover
-ThermalDynamics:cover:0, Blue Skyroot Sapling Cover
-ThermalDynamics:cover:0, Purple Crystal Leaves Cover
-ThermalDynamics:cover:0, Purple Fruit Leaves Cover
-ThermalDynamics:cover:0, Purple Crystal Sapling Cover
-ThermalDynamics:cover:0, Orange Tree Cover
-ThermalDynamics:cover:0, Continuum Ore Cover
-ThermalDynamics:cover:0, Dark Blue Skyroot Sapling Cover
-ThermalDynamics:cover:0, Skyroot Crafting Table Cover
-ThermalDynamics:cover:0, Blood Moss Holystone Cover
-ThermalDynamics:cover:0, Divine Carved Stone Wall Cover
-ThermalDynamics:cover:0, Divine Carved Stone Stairs Cover
-ThermalDynamics:cover:0, tile.coldFire.name Cover
-ThermalDynamics:cover:0, tile.skyrootDoor.name Cover
-ThermalDynamics:cover:0, Skyroot Fence Gate Cover
-ThermalDynamics:cover:0, Aerogel Stairs Cover
-ThermalDynamics:cover:0, Sentry Stone Stairs Cover
-ThermalDynamics:cover:0, Holystone Brick Stairs Cover
-ThermalDynamics:cover:0, Divine Sentry Stone Stairs Cover
-ThermalDynamics:cover:0, Aerogel Wall Cover
-ThermalDynamics:cover:0, Sentry Stone Wall Cover
-ThermalDynamics:cover:0, Holystone Brick Wall Cover
-ThermalDynamics:cover:0, Divine Sentry Stone Wall Cover
-ThermalDynamics:cover:0, Skyroot Ladder Cover
-ThermalDynamics:cover:0, tile.skyrootBed.name Cover
-ThermalDynamics:cover:0, Protection Stone Cover
-ThermalDynamics:cover:0, Skyroot Trap Door Cover
-ThermalDynamics:cover:0, Skyroot Bookshelf Cover
-ThermalDynamics:cover:0, Quicksoil Glass Pane Cover
-ThermalDynamics:cover:0, Holystone Headstone Cover
-ThermalDynamics:cover:0, Holystone Keystone Cover
-ThermalDynamics:cover:0, Holystone Highlight Cover
-ThermalDynamics:cover:0, Skyroot Slab Cover
-ThermalDynamics:cover:0, Skyroot Slab Cover
-ThermalDynamics:cover:0, Holystone Slab Cover
-ThermalDynamics:cover:0, Holystone Slab Cover
-ThermalDynamics:cover:0, Mossy Holystone Slab Cover
-ThermalDynamics:cover:0, Mossy Holystone Slab Cover
-ThermalDynamics:cover:0, Icestone Slab Cover
-ThermalDynamics:cover:0, Icestone Slab Cover
-ThermalDynamics:cover:0, Holystone Brick Slab Cover
-ThermalDynamics:cover:0, Holystone Brick Slab Cover
-ThermalDynamics:cover:0, Carved Stone Slab Cover
-ThermalDynamics:cover:0, Carved Stone Slab Cover
-ThermalDynamics:cover:0, Sentry Stone Slab Cover
-ThermalDynamics:cover:0, Sentry Stone Slab Cover
-ThermalDynamics:cover:0, Divine Carved Stone Slab Cover
-ThermalDynamics:cover:0, Divine Carved Stone Slab Cover
-ThermalDynamics:cover:0, Divine Sentry Stone Slab Cover
-ThermalDynamics:cover:0, Divine Sentry Stone Slab Cover
-ThermalDynamics:cover:0, Aerogel Slab Cover
-ThermalDynamics:cover:0, Aerogel Slab Cover
 ThermalDynamics:cover:0, Water Pad Cover
 ThermalDynamics:cover:0, Water Pad Cover
 ThermalDynamics:cover:0, Potato Cover
@@ -26892,26 +27669,6 @@ ThermalDynamics:cover:0, Concrete Tile Stairs Cover
 ThermalDynamics:cover:0, Industrial Hemp Cover
 ThermalDynamics:cover:0, Botanical Rune Cover
 ThermalDynamics:cover:0, Thaumic Rune Cover
-ThermalDynamics:cover:0, Floater Cover
-ThermalDynamics:cover:0, Air Balloon Cover
-ThermalDynamics:cover:0, Orange Air Balloon Cover
-ThermalDynamics:cover:0, Magenta Air Balloon Cover
-ThermalDynamics:cover:0, Light Blue Air Balloon Cover
-ThermalDynamics:cover:0, Yellow Air Balloon Cover
-ThermalDynamics:cover:0, Lime Air Balloon Cover
-ThermalDynamics:cover:0, Pink Air Balloon Cover
-ThermalDynamics:cover:0, Gray Air Balloon Cover
-ThermalDynamics:cover:0, Silver Air Balloon Cover
-ThermalDynamics:cover:0, Cyan Air Balloon Cover
-ThermalDynamics:cover:0, Purple Air Balloon Cover
-ThermalDynamics:cover:0, Blue Air Balloon Cover
-ThermalDynamics:cover:0, Brown Air Balloon Cover
-ThermalDynamics:cover:0, Green Air Balloon Cover
-ThermalDynamics:cover:0, Red Air Balloon Cover
-ThermalDynamics:cover:0, Black Air Balloon Cover
-ThermalDynamics:cover:0, Passenger Seat Cover
-ThermalDynamics:cover:0, Shore Buffer Cover
-ThermalDynamics:cover:0, Sticky Buffer Cover
 ThermalDynamics:cover:0, Factory Machine Block Cover
 ThermalDynamics:cover:0, Programmable RedNet Controller Housing Cover
 ThermalDynamics:cover:0, Cargo Pickup Rail Cover
@@ -27584,53 +28341,6 @@ ThermalDynamics:cover:0, Oil Cover
 ThermalDynamics:cover:0, Fuel Cover
 ThermalDynamics:cover:0, tile.blockRedPlasma.name Cover
 ThermalDynamics:cover:0, Mining Pipe Cover
-ThermalDynamics:cover:0, Sturdy Rail Cover
-ThermalDynamics:cover:0, Sturdy Powered Rail Cover
-ThermalDynamics:cover:0, Sturdy Detector Rail Cover
-ThermalDynamics:cover:0, Sturdy Activator Rail Cover
-ThermalDynamics:cover:0, Support Column Cover
-ThermalDynamics:cover:0, Scaffold Cover
-ThermalDynamics:cover:0, Builder's Scaffold Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Catwalk Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
-ThermalDynamics:cover:0, Caged Ladder Cover
 ThermalDynamics:cover:0, Robot Cover
 ThermalDynamics:cover:0, Block of Chamelium Cover
 ThermalDynamics:cover:0, End Stone Cover
@@ -28440,6 +29150,60 @@ ThermalDynamics:cover:0, Tainted Leaves Cover
 ThermalDynamics:cover:0, Tainted Sapling Cover
 ThermalDynamics:cover:0, Tainted Stone Cover
 ThermalDynamics:cover:0, Tainted Stone Bricks Cover
+ThermalDynamics:cover:0, Fossil Cover
+ThermalDynamics:cover:0, Skull Cover
+ThermalDynamics:cover:0, Skull Lantern Cover
+ThermalDynamics:cover:0, Failuresaurus Trail Cover
+ThermalDynamics:cover:0, Dense Sand Cover
+ThermalDynamics:cover:0, Reinforced Glass Cover
+ThermalDynamics:cover:0, Permafrost Cover
+ThermalDynamics:cover:0, Iced Stone Cover
+ThermalDynamics:cover:0, Volcanic Ash Cover
+ThermalDynamics:cover:0, Volcanic Rock Cover
+ThermalDynamics:cover:0, Tar Cover
+ThermalDynamics:cover:0, Palaeoraphe Log Cover
+ThermalDynamics:cover:0, Palaeoraphe Leaves Cover
+ThermalDynamics:cover:0, Palaeoraphe Sapling Cover
+ThermalDynamics:cover:0, Palaeoraphe Planks Cover
+ThermalDynamics:cover:0, Palaeoraphe Slab Cover
+ThermalDynamics:cover:0, Palaeoraphe Stairs Cover
+ThermalDynamics:cover:0, Ancient Wood Cover
+ThermalDynamics:cover:0, Ancient Wood Pillar Cover
+ThermalDynamics:cover:0, Ancient Wooden Plate Cover
+ThermalDynamics:cover:0, Ancient Wooden Stairs Cover
+ThermalDynamics:cover:0, Ancient Wood Slab Cover
+ThermalDynamics:cover:0, Volcanic Brick Cover
+ThermalDynamics:cover:0, Amber Ore Cover
+ThermalDynamics:cover:0, Ancient Stone Cover
+ThermalDynamics:cover:0, Ancient Stone Brick Cover
+ThermalDynamics:cover:0, Ancient Glass Cover
+ThermalDynamics:cover:0, Ancient Stone Stairs Cover
+ThermalDynamics:cover:0, Ancient Stone Slab Cover
+ThermalDynamics:cover:0, Obsidian Spikes Cover
+ThermalDynamics:cover:0, Portal to the Lair of Darkness Cover
+ThermalDynamics:cover:0, Overworld Portal Cover
+ThermalDynamics:cover:0, Volcanic Stairs Cover
+ThermalDynamics:cover:0, Volcanic Slab Cover
+ThermalDynamics:cover:0, Bubble Blower Cover
+ThermalDynamics:cover:0, Ancient Fern Cover
+ThermalDynamics:cover:0, Dillhoffia Cover
+ThermalDynamics:cover:0, Sarracenia Cover
+ThermalDynamics:cover:0, Cephalotaxus Cover
+ThermalDynamics:cover:0, Lycopodiophyta Cover
+ThermalDynamics:cover:0, Foozia Cover
+ThermalDynamics:cover:0, Zamites Cover
+ThermalDynamics:cover:0, Bennettitales Cover
+ThermalDynamics:cover:0, Tall Bennettitales Cover
+ThermalDynamics:cover:0, Welwitschia Cover
+ThermalDynamics:cover:0, Horsetail Cover
+ThermalDynamics:cover:0, Tall Horsetail Cover
+ThermalDynamics:cover:0, Failure Plant Cover
+ThermalDynamics:cover:0, Tempskya Cover
+ThermalDynamics:cover:0, Vaccinium Cover
+ThermalDynamics:cover:0, Osmunda Cover
+ThermalDynamics:cover:0, Crataegus Cover
+ThermalDynamics:cover:0, Florissantia Cover
+ThermalDynamics:cover:0, Ephedra Cover
 ThermalDynamics:cover:0, Asteroid Rock Cover
 ThermalDynamics:cover:0, Asteroid Rock Cover
 ThermalDynamics:cover:0, Asteroid Rock Cover
@@ -28718,7 +29482,6 @@ ThermalDynamics:cover:0, Fence (Tier 2) Cover
 ThermalDynamics:cover:0, Fence (Tier 3) Cover
 ThermalDynamics:cover:0, Fence (Tier 4) Cover
 ThermalDynamics:cover:0, Fence (Tier 5) Cover
-ThermalDynamics:cover:0, Gunpowder Cover
 ThermalDynamics:cover:0, Burgundy Flowers Cover
 ThermalDynamics:cover:0, Red Flowers Cover
 ThermalDynamics:cover:0, Coral Flowers Cover
@@ -29408,6 +30171,109 @@ ThermalDynamics:cover:0, Warpwood Planks Cover
 ThermalDynamics:cover:0, Warped Leaves Cover
 ThermalDynamics:cover:0, Warpwood Sapling Cover
 ThermalDynamics:cover:0, Awakened Warpwood Sapling Cover
+ThermalDynamics:cover:0, Block of Quicksilver Cover
+ThermalDynamics:cover:0, Quicksilver Brick Cover
+ThermalDynamics:cover:0, Air Crystal Block Cover
+ThermalDynamics:cover:0, Fire Crystal Block Cover
+ThermalDynamics:cover:0, Water Crystal Block Cover
+ThermalDynamics:cover:0, Earth Crystal Block Cover
+ThermalDynamics:cover:0, Order Crystal Block Cover
+ThermalDynamics:cover:0, Entropy Crystal Block Cover
+ThermalDynamics:cover:0, Mixed Crystal Block Cover
+ThermalDynamics:cover:0, Tainted Crystal Block Cover
+ThermalDynamics:cover:0, Salis Mundus Block Cover
+ThermalDynamics:cover:0, Block of Thauminite Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Pyrofluid Cover
+ThermalDynamics:cover:0, Gold Etched Obsidian Cover
+ThermalDynamics:cover:0, Iron Framed Greatwood Cover
+ThermalDynamics:cover:0, Plax Crop Cover
+ThermalDynamics:cover:0, Aurelia Petal Cover
+ThermalDynamics:cover:0, Aurelia Cover
+ThermalDynamics:cover:0, Metalleat Crop Cover
+ThermalDynamics:cover:0, Lucrite Crop Cover
+ThermalDynamics:cover:0, Rosa Mysteria Cover
+ThermalDynamics:cover:0, Sweed Crop Cover
+ThermalDynamics:cover:0, Lazullia Crop Cover
+ThermalDynamics:cover:0, Rainbow Cacti Cover
+ThermalDynamics:cover:0, Redlon Stem Cover
+ThermalDynamics:cover:0, Primal Shroom Cover
+ThermalDynamics:cover:0, Fluxium Cover
+ThermalDynamics:cover:0, Glieonia Crop Cover
+ThermalDynamics:cover:0, Briar Cover
+ThermalDynamics:cover:0, Tobacco Crop Cover
+ThermalDynamics:cover:0, Void Crop Cover
+ThermalDynamics:cover:0, Iron Spikes Cover
+ThermalDynamics:cover:0, Thaumic Spikes Cover
+ThermalDynamics:cover:0, Void Spikes Cover
+ThermalDynamics:cover:0, Golden Oak Sapling Cover
+ThermalDynamics:cover:0, Peaceful Sapling Cover
+ThermalDynamics:cover:0, Nether Sapling Cover
+ThermalDynamics:cover:0, Ender Sapling Cover
+ThermalDynamics:cover:0, Golden Oak Leaves Cover
+ThermalDynamics:cover:0, Peaceful Leaves Cover
+ThermalDynamics:cover:0, Nether Leaves Cover
+ThermalDynamics:cover:0, Ender Leaves Cover
+ThermalDynamics:cover:0, Crying Obsidian Cover
+ThermalDynamics:cover:0, Ancient Cobblestone Cover
+ThermalDynamics:cover:0, Ancient Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Ancient Gravel Cover
+ThermalDynamics:cover:0, Ancient Bricks Cover
+ThermalDynamics:cover:0, Ancient Lapis Lazuli Block Cover
+ThermalDynamics:cover:0, Ancient Iron Block Cover
+ThermalDynamics:cover:0, Ancient Gold Block Cover
+ThermalDynamics:cover:0, Ancient Diamond Block Cover
+ThermalDynamics:cover:0, Peaceful Wood Cover
+ThermalDynamics:cover:0, Nether Wood Cover
+ThermalDynamics:cover:0, Ender Wood Cover
+ThermalDynamics:cover:0, Gold Etched Obsidian Slab Cover
+ThermalDynamics:cover:0, Ancient Brick Slab Cover
+ThermalDynamics:cover:0, Ancient Cobblestone Slab Cover
+ThermalDynamics:cover:0, Ancient Mossy Cobblestone Slab Cover
+ThermalDynamics:cover:0, Ancient Diamond Slab Cover
+ThermalDynamics:cover:0, Ancient Gold Slab Cover
+ThermalDynamics:cover:0, Ancient Iron Slab Cover
+ThermalDynamics:cover:0, Ancient Lapis Lazuli Slab Cover
+ThermalDynamics:cover:0, Gold Etched Obsidian Slab Cover
+ThermalDynamics:cover:0, Ancient Brick Slab Cover
+ThermalDynamics:cover:0, Ancient Cobblestone Slab Cover
+ThermalDynamics:cover:0, Ancient Mossy Cobblestone Slab Cover
+ThermalDynamics:cover:0, Ancient Diamond Slab Cover
+ThermalDynamics:cover:0, Ancient Gold Slab Cover
+ThermalDynamics:cover:0, Ancient Iron Slab Cover
+ThermalDynamics:cover:0, Ancient Lapis Lazuli Slab Cover
+ThermalDynamics:cover:0, Air Crystal Slab Cover
+ThermalDynamics:cover:0, Fire Crystal Slab Cover
+ThermalDynamics:cover:0, Water Crystal Slab Cover
+ThermalDynamics:cover:0, Earth Crystal Slab Cover
+ThermalDynamics:cover:0, Order Crystal Slab Cover
+ThermalDynamics:cover:0, Entropy Crystal Slab Cover
+ThermalDynamics:cover:0, Mixed Crystal Slab Cover
+ThermalDynamics:cover:0, Tainted Crystal Slab Cover
+ThermalDynamics:cover:0, Air Crystal Slab Cover
+ThermalDynamics:cover:0, Fire Crystal Slab Cover
+ThermalDynamics:cover:0, Water Crystal Slab Cover
+ThermalDynamics:cover:0, Earth Crystal Slab Cover
+ThermalDynamics:cover:0, Order Crystal Slab Cover
+ThermalDynamics:cover:0, Entropy Crystal Slab Cover
+ThermalDynamics:cover:0, Mixed Crystal Slab Cover
+ThermalDynamics:cover:0, Tainted Crystal Slab Cover
+ThermalDynamics:cover:0, Void metal Block Cover
+ThermalDynamics:cover:0, Thaumium Anvil Cover
+ThermalDynamics:cover:0, Thaumium Anvil Cover
+ThermalDynamics:cover:0, Thaumium Anvil Cover
+ThermalDynamics:cover:0, Void metal Anvil Cover
+ThermalDynamics:cover:0, Void metal Anvil Cover
+ThermalDynamics:cover:0, Void metal Anvil Cover
+ThermalDynamics:cover:0, Ender Wood Planks Cover
+ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Alchemite Cover
 ThermalDynamics:cover:0, Block of Chocolate Cover
 ThermalDynamics:cover:0, tile.ThaumicHorizons_evanescent.name Cover
@@ -29612,6 +30478,12 @@ ThermalDynamics:cover:0, Wide Mesh Filter Cover
 ThermalDynamics:cover:0, Slat Mesh Filter Cover
 ThermalDynamics:cover:0, Mesh Filter Cover
 ThermalDynamics:cover:0, Fine Mesh Filter Cover
+ThermalDynamics:cover:0, Red Cedar Log Cover
+ThermalDynamics:cover:0, Red Cedar Sapling Cover
+ThermalDynamics:cover:0, Red Cedar Leaves Cover
+ThermalDynamics:cover:0, Red Cedar Plank Cover
+ThermalDynamics:cover:0, Red Cedar Stripped Log Cover
+ThermalDynamics:cover:0, Tipi Cover
 ThermalDynamics:cover:0, Belladonna Cover
 ThermalDynamics:cover:0, Mandrake Cover
 ThermalDynamics:cover:0, Water Artichoke Cover
@@ -30294,6 +31166,39 @@ ThermalDynamics:cover:0, Ztyl ⑫ Cover
 ThermalDynamics:cover:0, Ztyl ⑬ Cover
 ThermalDynamics:cover:0, Ztyl ⑭ Cover
 ThermalDynamics:cover:0, Ztyl ⑮ Cover
+ThermalDynamics:cover:0, Mage Light Cover
+ThermalDynamics:cover:0, Vinteum Ore Cover
+ThermalDynamics:cover:0, Chimerite Ore Cover
+ThermalDynamics:cover:0, Blue Topaz Ore Cover
+ThermalDynamics:cover:0, Moonstone Ore Cover
+ThermalDynamics:cover:0, Sunstone Ore Cover
+ThermalDynamics:cover:0, Moonstone Block Cover
+ThermalDynamics:cover:0, Vinteum Block Cover
+ThermalDynamics:cover:0, Blue Topaz Block Cover
+ThermalDynamics:cover:0, Sunstone Block Cover
+ThermalDynamics:cover:0, Chimerite Block Cover
+ThermalDynamics:cover:0, Cerublossom Cover
+ThermalDynamics:cover:0, Desert Nova Cover
+ThermalDynamics:cover:0, Magic Wall Cover
+ThermalDynamics:cover:0, Vinteum Torch Cover
+ThermalDynamics:cover:0, tile.arsmagica2:invisibleUtility.name Cover
+ThermalDynamics:cover:0, Aum Cover
+ThermalDynamics:cover:0, Tarma Root Cover
+ThermalDynamics:cover:0, Witchwood Log Cover
+ThermalDynamics:cover:0, Witchwood Leaves Cover
+ThermalDynamics:cover:0, Liquid Etherium Cover
+ThermalDynamics:cover:0, Redstone Inlay Cover
+ThermalDynamics:cover:0, Iron Inlay Cover
+ThermalDynamics:cover:0, Gold Inlay Cover
+ThermalDynamics:cover:0, Witchwood Planks Cover
+ThermalDynamics:cover:0, Witchwood Stairs Cover
+ThermalDynamics:cover:0, Witchwood Sapling Cover
+ThermalDynamics:cover:0, Wizard's Chalk Rune Cover
+ThermalDynamics:cover:0, Wakebloom Cover
+ThermalDynamics:cover:0, Witchwood Slab Cover
+ThermalDynamics:cover:0, Witchwood Slab Cover
+ThermalDynamics:cover:0, Illusion Block Cover
+ThermalDynamics:cover:0, Ethereal Illusion Block Cover
 ThermalDynamics:retriever:0, Retriever
 ThermalDynamics:retriever:1, Hardened Retriever
 ThermalDynamics:retriever:2, Reinforced Retriever
@@ -30330,6 +31235,20 @@ tis3d:keyCreative, Skeleton Key
 tis3d:prism, Prism
 TMechworks:LengthWire, Length of Wire
 TMechworks:SpoolWire:0, Spool of Wire
+totemic:totemWhittlingKnife, Totem Whittling Knife
+totemic:totemicStaff, Totemic Staff
+totemic:subItems:0, Iron Nugget
+totemic:subItems:1, Iron Bells
+totemic:jingleDress, Jingle Dress
+totemic:barkStripper, Bark Stripper
+totemic:buffaloItems:0, Buffalo Hide
+totemic:buffaloItems:1, Buffalo Teeth
+totemic:buffaloMeat, Raw Buffalo Meat
+totemic:buffaloCookedMeat, Cooked Buffalo Meat
+totemic:ceremonialRattle, Rattle
+totemic:totempedia, Totempedia
+totemic:flute, Flute
+totemic:tipiItem, Tipi
 TravellersGear:simpleGear:0, Cloak
 TravellersGear:simpleGear:1, Belt
 TravellersGear:simpleGear:2, Gold Ring
@@ -30682,6 +31601,8 @@ WitchingGadgets:item.WG_PrimordialHelm, Primordial Helm
 WitchingGadgets:item.WG_PrimordialChest, Primordial Cuirass
 WitchingGadgets:item.WG_PrimordialLegs, Primordial Greaves
 WitchingGadgets:item.WG_PrimordialBoots, Primordial Boots
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
