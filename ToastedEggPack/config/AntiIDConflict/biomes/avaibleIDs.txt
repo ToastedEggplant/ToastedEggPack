@@ -1,27 +1,6 @@
-Total amount of free biome ids: C:\Users\Lars\AppData\Roaming\.minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: C:\Users\ljjmr\AppData\Roaming\.minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
-
-
-
-
-
-143
-145
-146
-147
-148
-150
-152
-153
-154
-159
-168
-169
-170
-171
-172
-173
-174
+82
 175
 176
 177

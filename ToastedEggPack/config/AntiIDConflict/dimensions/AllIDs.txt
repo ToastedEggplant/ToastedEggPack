@@ -79,7 +79,7 @@
 -22 is Avaible
 -21 is Avaible
 -20 is Avaible
--19 is Avaible
+-19 is Occupied by: Bedrock, Provider: (id: -19, class: class thaumic.tinkerer.common.dim.WorldProviderBedrock)
 -18 is Avaible
 -17 is Avaible
 -16 is Avaible
@@ -91,7 +91,7 @@
 -10 is Avaible
 -9 is Avaible
 -8 is Avaible
--7 is Occupied by: Twilight Forest, Provider: (id: -777, class: class twilightforest.world.WorldProviderTwilightForest)
+-7 is Occupied by: FZHammer, Provider: (id: -7, class: class factorization.fzds.HammerWorldProvider)
 -6 is Avaible
 -5 is Avaible
 -4 is Avaible
@@ -158,7 +158,7 @@
 57 is Avaible
 58 is Avaible
 59 is Avaible
-60 is Avaible
+60 is Occupied by: Proxima, Provider: (id: 60, class: class Reika.ChromatiCraft.World.Dimension.WorldProviderChroma)
 61 is Avaible
 62 is Avaible
 63 is Avaible

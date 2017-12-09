@@ -1,4 +1,4 @@
-Total amount of conflicted biome ids: 33
+Total amount of conflicted biome ids: 29
 IDs in conflict:
 
 0 is asked by: Ocean (net.minecraft.world.biome.BiomeGenOcean)

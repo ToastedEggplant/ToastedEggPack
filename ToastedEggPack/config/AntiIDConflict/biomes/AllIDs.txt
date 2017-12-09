@@ -1,6 +1,6 @@
-Total amount of free biome ids: 86
-Total amount of occupied biome ids: 170
-Total amount of conflicted biome ids: 33
+Total amount of free biome ids: 65
+Total amount of occupied biome ids: 191
+Total amount of conflicted biome ids: 29
 All ids and their position:
 0 is asked by: Ocean (net.minecraft.world.biome.BiomeGenOcean)
 1 is asked by: Plains (net.minecraft.world.biome.BiomeGenPlains)
@@ -71,7 +71,7 @@ All ids and their position:
 66 is Occupied by Alps Forest (biomesoplenty.common.biome.overworld.sub.BiomeGenAlpsForest)
 67 is Occupied by Alps (biomesoplenty.common.biome.overworld.BiomeGenAlps)
 68 is Occupied by Arctic (biomesoplenty.common.biome.overworld.BiomeGenArctic)
-69 is Avaible
+69 is Occupied by Lush Desert (biomesoplenty.common.biome.overworld.BiomeGenLushDesert)
 70 is Occupied by Bayou (biomesoplenty.common.biome.overworld.BiomeGenBayou)
 71 is Occupied by Bog (biomesoplenty.common.biome.overworld.BiomeGenBog)
 72 is Occupied by Boneyard (biomesoplenty.common.biome.nether.BiomeGenBoneyard)
@@ -84,7 +84,7 @@ All ids and their position:
 79 is Occupied by Coniferous Forest (biomesoplenty.common.biome.overworld.BiomeGenConiferousForest)
 80 is Occupied by Coral Reef (biomesoplenty.common.biome.overworld.ocean.BiomeGenCoralReef)
 81 is Occupied by Corrupted Sands (biomesoplenty.common.biome.nether.BiomeGenCorruptedSands)
-82 is Occupied by Crag (biomesoplenty.common.biome.overworld.BiomeGenCrag)
+82 is Avaible
 83 is Occupied by Dead Forest (biomesoplenty.common.biome.overworld.BiomeGenDeadForest)
 84 is Occupied by Dead Swamp (biomesoplenty.common.biome.overworld.BiomeGenDeadSwamp)
 85 is Occupied by Deciduous Forest (biomesoplenty.common.biome.overworld.BiomeGenDeciduousForest)
@@ -102,11 +102,11 @@ All ids and their position:
 97 is Occupied by Jade Cliffs (biomesoplenty.common.biome.overworld.BiomeGenJadeCliffs)
 98 is Occupied by Kelp Forest (biomesoplenty.common.biome.overworld.ocean.BiomeGenKelpForest)
 99 is Occupied by Lavender Fields (biomesoplenty.common.biome.overworld.BiomeGenLavenderFields)
-100 is asked by: Lush Desert (biomesoplenty.common.biome.overworld.BiomeGenLushDesert), WitchwoodForest (am2.worldgen.BiomeWitchwoodForest)
+100 is Occupied by WitchwoodForest (am2.worldgen.BiomeWitchwoodForest)
 101 is Occupied by Lush River (biomesoplenty.common.biome.overworld.tech.BiomeGenLushRiver)
 102 is Occupied by Lush Swamp (biomesoplenty.common.biome.overworld.BiomeGenLushSwamp)
 103 is Occupied by Mangrove (biomesoplenty.common.biome.overworld.sub.BiomeGenMangrove)
-104 is Avaible
+104 is Occupied by Silkglades (biomesoplenty.common.biome.overworld.sub.BiomeGenSilkglades)
 105 is Occupied by Marsh (biomesoplenty.common.biome.overworld.BiomeGenMarsh)
 106 is Occupied by Meadow Forest (biomesoplenty.common.biome.overworld.sub.BiomeGenMeadowForest)
 107 is Occupied by Meadow (biomesoplenty.common.biome.overworld.BiomeGenMeadow)
@@ -129,8 +129,8 @@ All ids and their position:
 124 is Occupied by Seasonal Forest (biomesoplenty.common.biome.overworld.BiomeGenSeasonalForest)
 125 is Occupied by Shield (biomesoplenty.common.biome.overworld.BiomeGenShield)
 126 is Occupied by Shrubland (biomesoplenty.common.biome.overworld.BiomeGenShrubland)
-127 is asked by: Silkglades (biomesoplenty.common.biome.overworld.sub.BiomeGenSilkglades), biome.treasure.name (fossilsarcheology.server.biome.FossilsBiome)
-128 is asked by: Sludgepit (biomesoplenty.common.biome.overworld.BiomeGenSludgepit), Land of Darkness (fossilsarcheology.server.biome.FossilsBiome)
+127 is Occupied by biome.treasure.name (fossilsarcheology.server.biome.FossilsBiome)
+128 is Occupied by Land of Darkness (fossilsarcheology.server.biome.FossilsBiome)
 129 is Occupied by Sunflower Plains (net.minecraft.world.biome.BiomeGenPlains)
 130 is Occupied by Desert M (net.minecraft.world.biome.BiomeGenDesert)
 131 is Occupied by Extreme Hills M (net.minecraft.world.biome.BiomeGenHills)
@@ -140,29 +140,29 @@ All ids and their position:
 135 is Occupied by Bamboo Forest (biomesoplenty.common.biome.overworld.BiomeGenBambooForest)
 136 is Occupied by Undergarden (biomesoplenty.common.biome.nether.BiomeGenUndergarden)
 137 is Occupied by Spectral Garden (biomesoplenty.common.biome.end.BiomeGenSpectralGarden)
-138 is Avaible
-139 is Avaible
+138 is Occupied by Sludgepit (biomesoplenty.common.biome.overworld.BiomeGenSludgepit)
+139 is Occupied by Maple Woods (biomesoplenty.common.biome.overworld.BiomeGenMapleWoods)
 140 is Occupied by Ice Plains Spikes (net.minecraft.world.biome.BiomeGenSnow)
-141 is Avaible
+141 is Occupied by Crag (biomesoplenty.common.biome.overworld.BiomeGenCrag)
 142 is Occupied by Dense Forest (biomesoplenty.common.biome.overworld.BiomeGenDenseForest)
-143 is Avaible
+143 is Occupied by Ender Forest (Reika.ChromatiCraft.World.BiomeEnderForest)
 144 is Occupied by Xeric Shrubland (biomesoplenty.common.biome.overworld.BiomeGenXericShrubland)
-145 is Avaible
-146 is Avaible
-147 is Avaible
-148 is Avaible
+145 is Occupied by Luminous Cliffs (Reika.ChromatiCraft.World.BiomeGlowingCliffs)
+146 is Occupied by Luminous Cliffs Shores (Reika.ChromatiCraft.World.GlowingCliffsEdge)
+147 is Occupied by Rainbow Forest (Reika.ChromatiCraft.World.BiomeRainbowForest)
+148 is Occupied by Aura Ocean (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenChromaOcean)
 149 is Occupied by Jungle M (net.minecraft.world.biome.BiomeGenJungle)
-150 is Avaible
+150 is Occupied by Luminescent Sanctuary (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenCentral)
 151 is Occupied by JungleEdge M (net.minecraft.world.biome.BiomeGenJungle)
-152 is Avaible
-153 is Avaible
-154 is Avaible
+152 is Occupied by Crystal Forest (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenCrystalForest)
+153 is Occupied by Crystal Mountains (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenChromaMountains)
+154 is Occupied by Crystal Plains (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenCrystalPlains)
 155 is Occupied by Birch Forest M (net.minecraft.world.biome.BiomeGenForest)
 156 is Occupied by Birch Forest Hills M (net.minecraft.world.biome.BiomeGenForest)
 157 is Occupied by Roofed Forest M (net.minecraft.world.biome.BiomeGenForest)
 158 is Occupied by Cold Taiga M (net.minecraft.world.biome.BiomeGenTaiga)
-159 is Avaible
-160 is asked by: Mega Spruce Taiga (net.minecraft.world.biome.BiomeGenTaiga), Maple Woods (biomesoplenty.common.biome.overworld.BiomeGenMapleWoods)
+159 is Occupied by Glowing Forest (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenGlowingForest)
+160 is Occupied by Mega Spruce Taiga (net.minecraft.world.biome.BiomeGenTaiga)
 161 is Occupied by Mega Spruce Taiga (net.minecraft.world.biome.BiomeGenTaiga)
 162 is Occupied by Extreme Hills+ M (net.minecraft.world.biome.BiomeGenHills)
 163 is Occupied by Savanna M (net.minecraft.world.biome.BiomeGenSavanna)
@@ -170,13 +170,13 @@ All ids and their position:
 165 is Occupied by Mesa (Bryce) (net.minecraft.world.biome.BiomeGenMesa)
 166 is Occupied by Mesa Plateau F M (net.minecraft.world.biome.BiomeGenMesa)
 167 is Occupied by Mesa Plateau M (net.minecraft.world.biome.BiomeGenMesa)
-168 is Avaible
-169 is Avaible
-170 is Avaible
-171 is Avaible
-172 is Avaible
-173 is Avaible
-174 is Avaible
+168 is Occupied by Lumen Skylands (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenSkylands)
+169 is Occupied by Monument Field (Reika.ChromatiCraft.World.Dimension.Biome.MonumentBiome)
+170 is Occupied by Radiant Fissures (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenGlowCracks)
+171 is Occupied by Iridescent Archipelago (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenIslands)
+172 is Occupied by Sparkling Sands (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenSparkle)
+173 is Occupied by Structure Field (Reika.ChromatiCraft.World.Dimension.Biome.StructureBiome)
+174 is Occupied by Voidland (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenVoidlands)
 175 is Avaible
 176 is Avaible
 177 is Avaible
