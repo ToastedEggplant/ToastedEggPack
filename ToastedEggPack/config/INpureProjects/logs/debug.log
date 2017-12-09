@@ -61,6 +61,7 @@ Found creative tab: agricraft
 Found creative tab: materials
 Found creative tab: Aquaculture
 Found creative tab: Automagy
+Found creative tab: avaritia
 Found creative tab: tools
 Found creative tab: BiblioCraft
 Found creative tab: BiblioCraftLights
@@ -189,7 +190,6 @@ Found creative tab: twilightForest
 Found creative tab: witchinggadgets
 Found creative tab: ztones
 Found creative tab: bdew.generators
-Found creative tab: bdew.ae2stuff
 Found creative tab: aobd
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
@@ -221,8 +221,11 @@ Found creative tab: etfuturum
 Found creative tab: Ewy's Workshop
 Found creative tab: Extra_Cells
 Found creative tab: factorizationTab
-Found creative tab: tabFlan3
 Found creative tab: tabFlan1
+Found creative tab: tabFlan4
+Found creative tab: tabFlan0
+Found creative tab: tabFlan3
+Found creative tab: tabFlan2
 Found creative tab: Fossil Blocks
 Found creative tab: Fossil Items
 Found creative tab: gadomancy
@@ -269,8 +272,8 @@ Bootstrap setting found. Loading: Bootstrap.js
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3727
-override called. Params: appliedenergistics2, item.ItemFacade, 3616
+getNumberOfTypes called. Returned: 3740
+override called. Params: appliedenergistics2, item.ItemFacade, 1844
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: AgriCraft.js
@@ -498,8 +501,8 @@ override called. Params: BiblioCraft, item.seatBack5, 0,6
 Regex match found! BiblioCraft:item.seatBack5 matches BiblioCraft:item.seatBack5.
 Found ItemStack BiblioCraft:item.seatBack5. 64xitem.seatBack@0
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 5377
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 4933
+getFacadesSize called. Returned: 5390
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 515
 Loading: cfm.js
 hide called. Params: cfm, barstool
 Regex match found! cfm:barstool matches cfm:barstool.
@@ -764,15 +767,15 @@ Found ItemStack ExtraUtilities:generator.8. 64xtile.extrautils:generator.8@0
 override called. Params: ExtraUtilities, generator.64, 0,1,2,3,4,5,7,8,9,10,11
 Regex match found! ExtraUtilities:generator.64 matches ExtraUtilities:generator.64.
 Found ItemStack ExtraUtilities:generator.64. 64xtile.extrautils:generator.64@0
-getRandomMaterial called. Returned: BiomesOPlenty:crystal
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, BiomesOPlenty:crystal
+getRandomMaterial called. Returned: BiomesOPlenty:colorizedLeaves2
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, BiomesOPlenty:colorizedLeaves2
 Loading: ForbiddenMagic.js
 override called. Params: ForbiddenMagic, MobCrystal, 0
 Regex match found! ForbiddenMagic:MobCrystal matches ForbiddenMagic:MobCrystal.
 Found ItemStack ForbiddenMagic:MobCrystal. 1xitem.MobCrystal@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: BiomesOPlenty:gemOre_13
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, BiomesOPlenty:gemOre_13
+getRandomMaterial called. Returned: BiomesOPlenty:ashStone
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, BiomesOPlenty:ashStone
 Loading: Gendustry.js
 override called. Params: gendustry, GeneSample, 0
 Regex match found! gendustry:GeneSample matches gendustry:GeneSample.
