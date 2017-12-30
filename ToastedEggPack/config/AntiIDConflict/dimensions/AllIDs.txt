@@ -91,7 +91,7 @@
 -10 is Avaible
 -9 is Avaible
 -8 is Avaible
--7 is Occupied by: FZHammer, Provider: (id: -7, class: class factorization.fzds.HammerWorldProvider)
+-7 is Avaible
 -6 is Avaible
 -5 is Avaible
 -4 is Avaible

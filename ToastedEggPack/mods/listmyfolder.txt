@@ -1,0 +1,167 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1E66-1122
+
+ Directory of C:\Users\ljjmr\AppData\Roaming\.minecraft\mods
+
+12/29/2017  09:39 PM    <DIR>          .
+12/29/2017  09:39 PM    <DIR>          ..
+12/29/2017  03:19 PM    <DIR>          1.7.10
+12/02/2017  03:40 PM           501,229 ae2stuff-0.5.0.56-mc1.7.10.jar
+12/02/2017  03:40 PM         1,156,745 AgriCraft-1.7.10-1.5.0.jar
+12/02/2017  03:40 PM            14,859 AnimationAPI-1.7.10-1.2.4.jar
+12/02/2017  03:40 PM           211,318 AOBD-2.9.2.jar
+12/02/2017  03:40 PM           109,906 AppleCore-mc1.7.10-1.3.2.jar
+12/09/2017  03:48 PM         2,526,302 appliedenergistics2-rv2-stable-10.jar
+12/02/2017  03:40 PM           680,545 arcane_engineering-0.2.7.jar
+12/02/2017  03:40 PM           150,897 AsieLib-1.7.10-0.4.5.jar
+12/02/2017  03:40 PM           949,936 Avaritia-1.11.jar
+12/02/2017  03:40 PM         1,503,184 bdlib-1.9.4.109-mc1.7.10.jar
+12/02/2017  03:40 PM            46,776 BetterAchievements-1.7.10-0.1.0.jar
+12/02/2017  03:40 PM         5,447,894 BiblioCraft[v1.11.5][MC1.7.10].jar
+12/02/2017  03:40 PM           771,107 BigReactors-0.4.3A.jar
+12/02/2017  03:40 PM            73,340 Binnie Patcher 1.4.jar
+12/02/2017  03:40 PM         4,519,402 binnie-mods-2.0-pre14.jar
+12/02/2017  03:40 PM         5,755,129 BiomesOPlenty-1.7.10-2.1.0.2027-universal.jar
+12/02/2017  03:40 PM         9,198,412 BloodMagic-1.7.10-1.3.3-17.jar
+12/02/2017  03:40 PM        15,977,344 Botania r1.8-249.jar
+12/02/2017  03:40 PM            92,269 BrandonsCore-1.0.0.12.jar
+12/02/2017  03:40 PM         2,696,928 buildcraft-7.1.17.jar
+12/02/2017  03:40 PM           257,255 buildcraft-compat-7.1.5.jar
+12/29/2017  03:19 PM    <DIR>          carpentersblocks
+12/02/2017  03:40 PM         6,378,920 Chisel-2.9.5.11.jar
+12/02/2017  03:40 PM       103,159,431 ChromatiCraft 1.7.10 V19c.jar
+12/02/2017  03:40 PM           145,782 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
+12/02/2017  03:40 PM         1,230,523 CoFHCore-[1.7.10]3.1.3-327.jar
+12/02/2017  03:40 PM           250,664 cookingbook-mc1.7.10-1.0.140.jar
+12/02/2017  03:40 PM         1,279,941 coroutil-1.7.10-1.1.5.jar
+12/02/2017  03:40 PM            91,310 craftingtweaks-mc1.7.10-1.0.82.jar
+12/02/2017  03:40 PM         4,874,507 Draconic-Evolution-1.7.10-1.0.2h.jar
+12/02/2017  03:40 PM         3,268,964 DragonAPI 1.7.10 V19c.jar
+12/02/2017  03:40 PM           106,884 DummyCore1.13.jar
+12/09/2017  12:51 PM            92,128 EiraMoticons_1.7.10-1.3.88.jar
+12/02/2017  03:40 PM           459,961 ElectriCraft 1.7.10 V19b.jar
+12/09/2017  01:00 PM         1,681,384 ElectroMagicTools-1.2.6.2[1.7.10].jar
+12/02/2017  03:40 PM           466,743 EnderCore-1.7.10-0.2.0.36_beta.jar
+12/02/2017  03:40 PM         4,756,103 EnderIO-1.7.10-2.3.0.429_beta.jar
+12/02/2017  03:40 PM            16,464 ExtendedPotions-MC1.7.10-1.2.jar
+12/02/2017  03:40 PM         1,481,351 ExtraCells-1.7.10-2.3.14b200.jar
+12/02/2017  03:40 PM        11,557,124 ExtraTiC-1.7.10-1.4.6.jar
+12/02/2017  03:40 PM         2,149,827 extrautilities-1.2.12.jar
+12/02/2017  03:40 PM         1,392,979 Flans Mod-1.7.10-4.10.0.jar
+12/09/2017  12:52 PM           647,020 Forbidden Magic-1.7.10-0.575.jar
+12/02/2017  03:40 PM         3,322,286 forestry_1.7.10-4.2.16.64.jar
+12/02/2017  03:40 PM        53,762,663 fossilsarcheology-7.3.2.jar
+12/02/2017  03:40 PM            82,516 FoxLib-1.7.10-0.7.0.jar
+12/02/2017  03:40 PM           667,443 FTBLib-1.7.10-1.0.18.3.jar
+12/02/2017  03:40 PM           315,302 FTBUtilities-1.7.10-1.0.18.3.jar
+08/06/2017  12:44 PM         3,256,800 FullThrottle_Alchemist-1.7.10-1.0.18a.jar
+12/02/2017  03:40 PM         3,158,548 Galacticraft-Planets-1.7-3.0.12.463.jar
+12/02/2017  03:40 PM         9,312,906 GalacticraftCore-1.7-3.0.12.463.jar
+12/02/2017  03:40 PM         6,435,413 GalaxySpace-1.1.0 STABLE.jar
+12/02/2017  03:40 PM         1,976,556 gendustry-1.6.4.135-mc1.7.10.jar
+09/17/2017  01:05 PM         2,417,353 growthcraft-1.7.10-2.7.2-complete.jar
+12/02/2017  03:40 PM           200,078 Guide-API-1.7.10-1.0.1-29.jar
+12/02/2017  03:40 PM         4,338,973 HardcoreEnderExpansion  MC-1.7.10  v1.8.6.jar
+12/02/2017  03:40 PM             6,552 HelpFixer-1.0.7.jar
+09/17/2017  01:06 PM         4,272,001 HEXCraft-1.7.10-0.8.5.jar
+12/02/2017  03:40 PM            80,298 HoloInventory-1.7.10-1.9.1.124.jar
+12/02/2017  03:40 PM           107,935 HungerOverhaul-1.7.10-1.0.0.jar
+12/29/2017  03:19 PM    <DIR>          ic2
+12/02/2017  03:40 PM           220,214 iChunUtil-4.2.2.jar
+12/02/2017  03:40 PM             2,649 IDCleaner-1.7.10-1.0.jar
+12/02/2017  03:40 PM           427,425 IguanaTinkerTweaks-1.7.10-2.1.6.jar
+12/02/2017  03:40 PM           289,078 IGW-Mod-1.7.10-1.1.12-34-universal.jar
+12/02/2017  03:40 PM         3,610,468 ImmersiveEngineering-0.7.7.jar
+12/02/2017  03:40 PM           302,059 immersiveintegration-0.6.8.jar
+12/09/2017  01:03 PM         5,633,941 industrialcraft-2-2.2.827-experimental.jar
+12/02/2017  03:40 PM           126,448 INpureCore-[1.7.10]1.0.0B9-62.jar
+12/02/2017  03:40 PM           226,485 InventoryTweaks-1.59j-dev.jar
+12/02/2017  03:40 PM           354,672 IronBackpacks-1.7.10-1.2.20.jar
+12/02/2017  03:40 PM           158,104 ironchest-1.7.10-6.0.62.742-universal.jar
+12/02/2017  03:40 PM           373,500 IvToolkit-1.2.1.jar
+12/02/2017  03:40 PM           445,166 Jabba-1.2.2_1.7.10.jar
+12/02/2017  03:40 PM         1,717,502 journeymap-1.7.10-5.1.4p1-unlimited.jar
+12/02/2017  03:40 PM            60,408 KoreSample-1.7.10-1.3.2.jar
+12/29/2017  09:39 PM                 0 listmyfolder.txt
+12/02/2017  03:40 PM           771,916 llibrary-1.5.1-1.7.10.jar
+12/02/2017  03:40 PM           972,727 magicbees-1.7.10-2.4.3.jar
+12/02/2017  03:40 PM           202,458 Mantle-1.7.10-0.3.2b.jar
+12/02/2017  03:40 PM           187,881 mcjtylib-1.8.1.jar
+12/02/2017  03:40 PM        15,780,244 Mekanism-1.7.10-9.1.0.281.jar
+12/02/2017  03:40 PM           253,341 MekanismGenerators-1.7.10-9.1.0.281.jar
+12/02/2017  03:40 PM            31,517 MekanismTools-1.7.10-9.1.0.281.jar
+12/02/2017  03:40 PM         2,044,091 Metallurgy-1.7.10-4.0.8.97.jar
+12/02/2017  03:40 PM            49,712 MetallurgyCore-1.7.10-4.0.4.18.jar
+12/02/2017  03:40 PM            64,913 MicdoodleCore-1.7-3.0.12.463.jar
+12/02/2017  03:40 PM         1,767,420 MineFactoryReloaded-[1.7.10]2.8.2B1-200.jar
+12/02/2017  03:40 PM           927,376 MineTweaker3-1.7.10-3.0.10B.jar
+12/02/2017  03:40 PM           578,158 ModTweaker2-0.9.5.jar
+12/02/2017  03:40 PM            18,767 Morpheus-1.7.10-1.6.21.jar
+12/02/2017  03:40 PM           891,845 natura-1.7.10-2.2.0.1.jar
+12/02/2017  03:40 PM           103,007 neiaddons-1.12.15.41-mc1.7.10.jar
+12/02/2017  03:40 PM           197,046 NEIIntegration-MC1.7.10-1.1.2.jar
+12/02/2017  03:40 PM            79,708 NetherOres-[1.7.10]2.3.1-22.jar
+12/02/2017  03:40 PM             6,232 netherportalfix-mc1.7.10-1.1.0.jar
+09/17/2017  01:12 PM            16,043 NoMoreRecipeConflict-0.3(1.7.10).jar
+12/02/2017  03:40 PM            55,390 NotEnoughIDs-1.4.3.4.jar
+12/02/2017  03:40 PM           513,136 NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+12/02/2017  03:40 PM            29,473 NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar
+12/02/2017  03:40 PM           226,519 NotEnoughResources-1.7.10-0.1.0-122.jar
+12/09/2017  05:40 PM            25,378 NotEnoughThaumcraftTabs-1.0.2.jar
+12/02/2017  03:40 PM         2,705,342 OpenBlocks-1.7.10-1.5.1.jar
+12/02/2017  03:40 PM        12,512,727 OpenComputers-MC1.7.10-1.6.1.11-universal.jar
+12/02/2017  03:40 PM           178,309 OpenEye-0.6-1.7.10.jar
+12/02/2017  03:40 PM         1,154,687 OpenModsLib-1.7.10-0.9.1.jar
+12/28/2017  04:21 PM         1,636,995 OptiFine_1.7.10_HD_U_D8.jar
+12/09/2017  01:05 PM         2,482,753 Pam's HarvestCraft 1.7.10Lb.jar
+12/02/2017  03:40 PM           107,504 PlanetguyLib-1.9.2.jar
+12/02/2017  03:40 PM         1,748,703 plantmegapack-4.33-1.7.10-1492.jar
+12/02/2017  03:40 PM           626,496 PortalGun-4.0.0-beta-6.jar
+12/02/2017  03:40 PM        14,885,449 PortalGunSounds.pak
+12/02/2017  03:40 PM                32 PortalGunSounds.pak.md5
+12/02/2017  03:40 PM           252,656 QmunityLib-1.7.10-0.1.114-universal.jar
+12/29/2017  03:19 PM    <DIR>          railcraft
+12/02/2017  03:40 PM         3,724,974 Railcraft_1.7.10-9.12.2.0.jar
+12/02/2017  03:40 PM         2,818,840 RandomThings-2.2.4.jar
+12/02/2017  03:40 PM         3,625,234 ReactorCraft 1.7.10 V19c.jar
+12/02/2017  03:40 PM            23,069 ReAuth-3.2.jar
+12/02/2017  03:40 PM           490,073 RedstoneArmory-1.7.10-1.2.0-41.jar
+12/02/2017  03:40 PM           317,048 RedstoneArsenal-[1.7.10]1.1.3B1-94.jar
+12/29/2017  03:19 PM    <DIR>          Reika
+12/02/2017  03:40 PM           625,409 Reliquary-1.2.248.jar
+12/02/2017  03:40 PM            13,037 ResourceLoader-MC1.7.10-1.3.jar
+12/02/2017  03:40 PM         8,058,061 RotaryCraft 1.7.10 V19c.jar
+12/02/2017  03:40 PM         1,503,535 Sanguimancy-1.7.10-1.1.9-35.jar
+12/02/2017  03:40 PM           608,053 SimplyJetpacks-MC1.7.10-1.5.3.jar
+12/02/2017  03:40 PM             8,979 spatialiocompat-build-9.jar
+12/02/2017  03:40 PM           266,548 StevesAddons-1.7.10-0.10.16.jar
+12/02/2017  03:40 PM         2,532,065 StevesCarts2.0.0.b18.jar
+12/02/2017  03:40 PM           694,287 StevesFactoryManagerA93.jar
+12/09/2017  12:53 PM         3,800,566 Tainted-Magic-r7.82.jar
+12/02/2017  03:40 PM            17,202 tcinventoryscan-mc1.7.10-1.0.11.jar
+12/02/2017  03:40 PM           116,878 tcnodetracker-1.7.10-1.1.2.jar
+12/02/2017  03:40 PM         5,606,642 TConstruct-1.7.10-1.8.8.build991.jar
+12/02/2017  03:40 PM        12,565,807 Thaumcraft-1.7.10-4.2.3.5.jar
+12/02/2017  03:40 PM            68,794 thaumcraftneiplugin-1.7.10-1.7a.jar
+12/02/2017  03:40 PM         1,827,409 ThaumicBases-1.3.1710.4.jar
+12/09/2017  01:02 PM         1,672,811 thaumicenergistics-1.0.0.5-RV2.jar
+12/02/2017  03:40 PM         1,982,603 ThaumicExploration-1.7.10-1.1-53.jar
+12/02/2017  03:40 PM         2,456,405 thaumichorizons-1.7.10-1.1.9.jar
+12/09/2017  01:02 PM         2,141,043 ThaumicTinkerer-2.5-1.7.10-164.jar
+12/02/2017  03:40 PM           632,402 ThermalDynamics-[1.7.10]1.2.0-171.jar
+12/02/2017  03:40 PM         2,614,901 ThermalExpansion-[1.7.10]4.1.4-247.jar
+12/02/2017  03:40 PM         2,316,314 ThermalFoundation-[1.7.10]1.2.5-115.jar
+12/02/2017  03:40 PM           659,355 ThermalSmeltery-1.3.1.4.jar
+12/02/2017  03:40 PM            52,002 TiCTooltips-mc1.7.10-1.2.5.jar
+12/02/2017  03:40 PM            30,178 trashslot-mc1.7.10-1.0.31.jar
+12/02/2017  03:40 PM           312,717 TravellersGear-1.7.10-1.16.6.jar
+09/16/2017  01:12 PM           119,475 VeinMiner-1.7.10-0.36.0.496+28a7f13.jar
+12/02/2017  03:40 PM           544,821 Waila-1.5.10_1.7.10.jar
+12/02/2017  03:40 PM            28,800 WailaHarvestability-mc1.7.10-1.1.6.jar
+12/02/2017  03:40 PM            77,436 WAILAPlugins-MC1.7.10-0.2.0-23.jar
+12/29/2017  05:13 PM                22 whatin.bat
+12/02/2017  03:40 PM         7,009,956 witchery-1.7.10-0.24.1.jar
+12/02/2017  03:40 PM         4,217,711 WitchingGadgets-1.7.10-1.1.10.jar
+12/02/2017  03:40 PM           352,856 WR-CBE-1.7.10-1.4.1.9-universal.jar
+             153 File(s)    446,410,798 bytes
+               7 Dir(s)  386,665,259,008 bytes free

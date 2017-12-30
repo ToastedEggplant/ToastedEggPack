@@ -34,8 +34,8 @@
 33 is Occupied by: enchantment.untouching (net.minecraft.enchantment.EnchantmentUntouching)
 34 is Occupied by: enchantment.durability (net.minecraft.enchantment.EnchantmentDurability)
 35 is Occupied by: enchantment.lootBonusDigger (net.minecraft.enchantment.EnchantmentLootBonus)
-36 is Occupied by: enchantment.frost_walker (ganymedes01.etfuturum.enchantment.FrostWalker)
-37 is Occupied by: enchantment.mending (ganymedes01.etfuturum.enchantment.Mending)
+36 is Avaible
+37 is Avaible
 38 is Avaible
 39 is Avaible
 40 is Avaible
@@ -103,8 +103,8 @@
 102 is Occupied by: enchantment.vaporising (tb.common.enchantment.EnchantmentVaporising)
 103 is Occupied by: enchant.cofh.holding (cofh.core.enchantment.EnchantmentHolding)
 104 is Occupied by: enchant.cofh.multishot (cofh.core.enchantment.EnchantmentMultishot)
-105 is Occupied by: enchantment.magicresist (am2.enchantments.EnchantMagicResist)
-106 is Occupied by: enchantment.soulbound (am2.enchantments.EnchantmentSoulbound)
+105 is Avaible
+106 is Avaible
 107 is Occupied by: enchantment.wg.backstab (witchinggadgets.common.magic.WGEnchantBackstab)
 108 is Occupied by: enchantment.wg.rideProtect (witchinggadgets.common.magic.WGEnchantRideProtect)
 109 is Avaible
@@ -116,8 +116,8 @@
 115 is Avaible
 116 is Avaible
 117 is Avaible
-118 is Occupied by: enchantment.null (com.bluepowermod.enchant.EnchantmentDisjunction)
-119 is Occupied by: enchantment.null (com.bluepowermod.enchant.EnchantmentVorpal)
+118 is Avaible
+119 is Avaible
 120 is Avaible
 121 is Avaible
 122 is Avaible
