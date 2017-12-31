@@ -1,0 +1,57 @@
+groups:
+  default:
+    options:
+      default: true
+      rank: '1000'
+    permissions:
+    - modifyworld.chat
+  Member:
+    options:
+      prefix: '&0(&8M&7ember&0)&7 '
+      rank: '900'
+    permissions:
+    - modifyworld.*
+  VIP:
+    options:
+      prefix: '&0(&eVIP&0)&7 '
+      rank: '800'
+    permissions:
+    - -modifyworld.mobtarget.monster.creeper
+    - modifyworld.*
+  Mod:
+    options:
+      prefix: '&0(&1Mod&0)&7 '
+      rank: '100'
+    permissions:
+    - -modifyworld.mobtarget.*
+    - modifyworld.*
+  Admin:
+    options:
+      prefix: '&0(&4Admin&0)&7 '
+      rank: '50'
+    permissions:
+    - -modifyworld.mobtarget.*
+    - modifyworld.*
+    - permissions.*
+  Owner:
+    options:
+      prefix: '&0(&bToasty&eBoi&0)&a '
+      rank: '1'
+    permissions:
+    - fe.commands.gamemode
+    - command.defaultgamemode
+users:
+  1e6cf81d-4ad3-4424-8c3a-52284ae77ea4:
+    group:
+    - Owner
+  6c533e7a-df5f-461b-9682-cca8b6f0d003:
+    group:
+    - Owner
+    options:
+      name: §c[OP] §rDevout_TeaMormon
+  69acd859-2fd1-46a4-b37e-945923ac7520:
+    group:
+    - Owner
+    options:
+      name: peptron1
+schema-version: 1

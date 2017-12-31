@@ -1,0 +1,111 @@
+{
+  "records.AoW": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/AoW",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.doot": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/doot",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.GladionTheme": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/GladionTheme",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.HEY": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/HEY",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.kirby": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/kirby",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.LavenderTown": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/LavenderTown",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.leekSpin": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/leekSpin",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.nyanCat": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/nyanCat",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.Rasputin": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Rasputin",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.sanic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/sanic",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.ThatsHot": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/ThatsHot",
+        "stream": true
+      }
+    ]
+  }
+}

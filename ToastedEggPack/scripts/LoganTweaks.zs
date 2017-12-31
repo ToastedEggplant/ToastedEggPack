@@ -8,6 +8,15 @@ recipes.remove(<ExtraUtilities:angelRing:2>);
 recipes.remove(<ExtraUtilities:angelRing:3>);
 recipes.remove(<ExtraUtilities:angelRing:4>);
 
+//Remove Ender Quarry
+recipes.remove(<ExtraUtilities:enderQuarry>);
+
+//Remove DiamondNugget
+recipes.remove(<AgriCraft:nuggetDiamond>);
+
+//Weather Crystal to Diamond Chunks
+recipes.remove(<OpenComputers:item:111>);
+recipes.addShapeless(<OpenComputers:item:111> * 6, [<EnderIO:itemMaterial:10>]);
   
    
 // Atomic Disassembler
@@ -22,7 +31,7 @@ recipes.addShaped(<AWWayofTime:Altar>, [[<ForbiddenMagic:NetherShard>, <xreliqua
 
 // Digital Miner
 recipes.remove(<Mekanism:MachineBlock:4>);
-recipes.addShaped(<Mekanism:MachineBlock:4>, [[<ExtraUtilities:enderQuarry>, <BuildCraft|Factory:miningWellBlock>, <ExtraUtilities:enderQuarry>], [<ThermalFoundation:material:140>, <Mekanism:AtomicDisassembler>, <ThermalFoundation:material:140>], [<ExtraUtilities:enderQuarry>, <Mekanism:MachineBlock:11>, <ExtraUtilities:enderQuarry>]]);
+recipes.addShaped(<Mekanism:MachineBlock:4>, [[<BuildCraft|Builders:machineBlock>, <BuildCraft|Factory:miningWellBlock>, <BuildCraft|Builders:machineBlock>], [<ThermalFoundation:material:140>, <Mekanism:AtomicDisassembler>, <ThermalFoundation:material:140>], [<BuildCraft|Builders:machineBlock>, <Mekanism:MachineBlock:11>, <BuildCraft|Builders:machineBlock>]]);
 
 
 // Draconic Core
@@ -37,10 +46,7 @@ recipes.addShaped(<DraconicEvolution:wyvernCore>, [[<HardcoreEnderExpansion:end_
 recipes.remove(<witchery:altar>);
 recipes.addShaped(<witchery:altar>, [[<witchery:ingredient:31>, <witchery:ingredient:153>, <witchery:ingredient:32>], [<chisel:arcane:1>, <Thaumcraft:blockCosmeticSlabStone>, <chisel:arcane:1>], [<witchery:witchlog:2>, <witchery:witchlog>, <witchery:witchlog:1>]]);
 
-//Anu Statue
-recipes.addShaped(<fossil:anu_block>, [[<CarpentersBlocks:itemCarpentersHammer>, <fossil:ancientHelmet>, <CarpentersBlocks:itemCarpentersChisel>], [<TravellersGear:simpleGear:2>, <witchery:wolfhead:1>, <TravellersGear:simpleGear:3>], [<fossil:relicScrap>, <fossil:scarabGem>, <fossil:bioFossil>]]);
-
 
 // Mekanism Jetpack
 recipes.remove(<Mekanism:Jetpack>);
-recipes.addShaped(<Mekanism:Jetpack>, [[<Mekanism:Ingot>, <Mekanism:ControlCircuit:1>, <Mekanism:Ingot>], [<GalaxySpace:item.ModuleSmallFuelCanister>, <simplyjetpacks:components>, <GalaxySpace:item.ModuleSmallFuelCanister>], [<simplyjetpacks:components:31>, <StorageDrawers:tape>, <simplyjetpacks:components:31>]]);
+recipes.addShaped(<Mekanism:Jetpack>, [[<Mekanism:Ingot>, <Mekanism:ControlCircuit:1>, <Mekanism:Ingot>], [<GalaxySpace:item.ModuleSmallFuelCanister>, <simplyjetpacks:components>, <GalaxySpace:item.ModuleSmallFuelCanister>], [<simplyjetpacks:components:31>, <EMT:EMTItems:9>, <simplyjetpacks:components:31>]]);
